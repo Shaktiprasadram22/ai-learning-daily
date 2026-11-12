@@ -6,7 +6,9 @@ Each entry links to the original publisher, keeps its publication date, includes
 
 <!-- articles:start -->
 
-The first collection will appear here after the publisher runs.
+**1 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
+
+- **2026-11-11 · NVIDIA** — [Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory](articles/2026-11/4b30bf9e8a4d0303bec665cd.md)
 
 <!-- articles:end -->
 
