@@ -210,5 +210,20 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-11/5f721228af3682c2417b4131.md",
     "automated": true
+  },
+  {
+    "id": "7f97ab3d43dc53a44c97e2d3",
+    "title": "Agents aren’t humans (but they kinda are)",
+    "url": "https://blog.cloudflare.com/trusted-agent-delegation",
+    "source": "Cloudflare",
+    "published_at": "2026-11-05T17:03:04Z",
+    "added_at": "2026-11-12T05:09:56Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "AI agents act for millions, but servers see intermediaries that strip user visibility. This post defines the problem space and introduces a collaborative approach to …",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/7f97ab3d43dc53a44c97e2d3.md",
+    "automated": true
   }
 ]
