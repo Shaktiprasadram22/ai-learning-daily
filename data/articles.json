@@ -28,5 +28,20 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-11/19b4fcb1faac9c9bdbccd358.md",
     "automated": true
+  },
+  {
+    "id": "740de2548ad8f4689ad7f676",
+    "title": "A2UI 1.0: Build delightful, fast, reliable, agentic experiences",
+    "url": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences",
+    "source": "Google Developers",
+    "published_at": "2026-11-11T00:00:00Z",
+    "added_at": "2026-11-12T05:09:56Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "A2UI 1.0 is an open protocol for generative UI that enables AI agents to render interactive, native screens across web, mobile, and desktop applications. Developers …",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/740de2548ad8f4689ad7f676.md",
+    "automated": true
   }
 ]

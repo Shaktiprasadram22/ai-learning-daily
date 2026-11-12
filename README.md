@@ -6,10 +6,11 @@ Each entry links to the original publisher, keeps its publication date, includes
 
 <!-- articles:start -->
 
-**2 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
+**3 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
 
 - **2026-11-11 · NVIDIA** — [Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory](articles/2026-11/4b30bf9e8a4d0303bec665cd.md)
 - **2026-11-11 · Hugging Face** — [BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model](articles/2026-11/19b4fcb1faac9c9bdbccd358.md)
+- **2026-11-11 · Google Developers** — [A2UI 1.0: Build delightful, fast, reliable, agentic experiences](articles/2026-11/740de2548ad8f4689ad7f676.md)
 
 <!-- articles:end -->
 
