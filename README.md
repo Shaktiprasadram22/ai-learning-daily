@@ -6,7 +6,7 @@ Each entry links to the original publisher, keeps its publication date, includes
 
 <!-- articles:start -->
 
-**7 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
+**8 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
 
 - **2026-11-11 · NVIDIA** — [Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory](articles/2026-11/4b30bf9e8a4d0303bec665cd.md)
 - **2026-11-11 · Hugging Face** — [BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model](articles/2026-11/19b4fcb1faac9c9bdbccd358.md)
@@ -15,6 +15,7 @@ Each entry links to the original publisher, keeps its publication date, includes
 - **2026-11-10 · n8n** — [Build Safer n8n Agents and Workflows with Google Gemini 4 Carbon](articles/2026-11/26a090d137e1aeb75b70910d.md)
 - **2026-11-10 · NVIDIA** — [Agent Substrate: Advancing Kubernetes for Agents at Scale](articles/2026-11/a8c416e2c7748124802b5f5d.md)
 - **2026-11-10 · NVIDIA** — [Start and Restore GPU Workloads in Seconds with NVIDIA Snapshot](articles/2026-11/25d05ca668539a6649120826.md)
+- **2026-11-10 · n8n** — [Meet Nod: a standalone personal agent from n8n Labs that runs on your computer](articles/2026-11/5460776ef92cacf5d941db2b.md)
 
 <!-- articles:end -->
 
