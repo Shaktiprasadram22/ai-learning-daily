@@ -118,5 +118,20 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-11/5460776ef92cacf5d941db2b.md",
     "automated": true
+  },
+  {
+    "id": "37e4452e64c861cffe83ba46",
+    "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+    "url": "https://openai.com/index/cogent-security",
+    "source": "OpenAI",
+    "published_at": "2026-11-10T00:00:00Z",
+    "added_at": "2026-11-12T05:09:56Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/37e4452e64c861cffe83ba46.md",
+    "automated": true
   }
 ]
