@@ -73,5 +73,20 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-11/26a090d137e1aeb75b70910d.md",
     "automated": true
+  },
+  {
+    "id": "a8c416e2c7748124802b5f5d",
+    "title": "Agent Substrate: Advancing Kubernetes for Agents at Scale",
+    "url": "https://developer.nvidia.com/blog/agent-substrate-advancing-kubernetes-for-agents-at-scale",
+    "source": "NVIDIA",
+    "published_at": "2026-11-10T15:00:00Z",
+    "added_at": "2026-11-12T05:09:56Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "AI agents spend most of their time idle, waiting on a human prompt, a tool result or a model response. Kubernetes wasn’t built for that. …",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/a8c416e2c7748124802b5f5d.md",
+    "automated": true
   }
 ]
