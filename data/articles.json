@@ -133,5 +133,20 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-11/37e4452e64c861cffe83ba46.md",
     "automated": true
+  },
+  {
+    "id": "02e9abf47eaf3fa01f98fe0d",
+    "title": "CodeRabbit scales agentic software development and ships 20x more",
+    "url": "https://openai.com/index/coderabbit-codex-daybreak",
+    "source": "OpenAI",
+    "published_at": "2026-11-09T08:00:00Z",
+    "added_at": "2026-11-12T05:09:56Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/02e9abf47eaf3fa01f98fe0d.md",
+    "automated": true
   }
 ]
