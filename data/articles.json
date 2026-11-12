@@ -270,5 +270,20 @@
     "practice": "Measure cost per successful chatbot answer before and after trying this technique.",
     "path": "articles/2026-11/2d1d326185a62641bed05bf7.md",
     "automated": true
+  },
+  {
+    "id": "4376fc05a5786b49752e4f6c",
+    "title": "How NVIDIA Uses AI Agents to Streamline AI Factory Operations",
+    "url": "https://developer.nvidia.com/blog/how-nvidia-uses-ai-agents-to-streamline-ai-factory-operations",
+    "source": "NVIDIA",
+    "published_at": "2026-11-04T22:00:17Z",
+    "added_at": "2026-11-12T05:09:56Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "As GPU clusters scale, operations span compute, network, hardware, and scheduling. Site reliability engineers (SREs) often have to examine multiple dashboards...",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/4376fc05a5786b49752e4f6c.md",
+    "automated": true
   }
 ]
