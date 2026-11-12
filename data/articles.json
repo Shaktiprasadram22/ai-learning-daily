@@ -148,5 +148,21 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-11/02e9abf47eaf3fa01f98fe0d.md",
     "automated": true
+  },
+  {
+    "id": "4e0aa3919fe104e56d23bd7a",
+    "title": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
+    "url": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus",
+    "source": "NVIDIA",
+    "published_at": "2026-11-06T22:20:20Z",
+    "added_at": "2026-11-12T05:09:56Z",
+    "topics": [
+      "build",
+      "latency"
+    ],
+    "excerpt": "When deploying diffusion models in design tools, image editors, and visual production workflows, developers must account for inference latency. Generating an...",
+    "practice": "Benchmark this technique on the same prompts; compare first-token and total response time.",
+    "path": "articles/2026-11/4e0aa3919fe104e56d23bd7a.md",
+    "automated": true
   }
 ]

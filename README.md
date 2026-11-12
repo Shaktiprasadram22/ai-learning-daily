@@ -6,7 +6,7 @@ Each entry links to the original publisher, keeps its publication date, includes
 
 <!-- articles:start -->
 
-**10 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
+**11 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
 
 - **2026-11-11 · NVIDIA** — [Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory](articles/2026-11/4b30bf9e8a4d0303bec665cd.md)
 - **2026-11-11 · Hugging Face** — [BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model](articles/2026-11/19b4fcb1faac9c9bdbccd358.md)
@@ -18,6 +18,7 @@ Each entry links to the original publisher, keeps its publication date, includes
 - **2026-11-10 · n8n** — [Meet Nod: a standalone personal agent from n8n Labs that runs on your computer](articles/2026-11/5460776ef92cacf5d941db2b.md)
 - **2026-11-10 · OpenAI** — [Cogent and OpenAI build cyber defense factories for enterprises](articles/2026-11/37e4452e64c861cffe83ba46.md)
 - **2026-11-09 · OpenAI** — [CodeRabbit scales agentic software development and ships 20x more](articles/2026-11/02e9abf47eaf3fa01f98fe0d.md)
+- **2026-11-06 · NVIDIA** — [Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs](articles/2026-11/4e0aa3919fe104e56d23bd7a.md)
 
 <!-- articles:end -->
 
