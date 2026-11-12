@@ -6,7 +6,7 @@ Each entry links to the original publisher, keeps its publication date, includes
 
 <!-- articles:start -->
 
-**19 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
+**20 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
 
 - **2026-11-11 · NVIDIA** — [Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory](articles/2026-11/4b30bf9e8a4d0303bec665cd.md)
 - **2026-11-11 · Hugging Face** — [BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model](articles/2026-11/19b4fcb1faac9c9bdbccd358.md)
@@ -27,6 +27,7 @@ Each entry links to the original publisher, keeps its publication date, includes
 - **2026-11-05 · OpenAI** — [GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents](articles/2026-11/14e90e72d3401ddf817f6448.md)
 - **2026-11-05 · OpenAI** — [Flipsnack grows product signups with conversion optimization](articles/2026-11/2d1d326185a62641bed05bf7.md)
 - **2026-11-04 · NVIDIA** — [How NVIDIA Uses AI Agents to Streamline AI Factory Operations](articles/2026-11/4376fc05a5786b49752e4f6c.md)
+- **2026-11-04 · NVIDIA** — [How NVIDIA Factory Operations Blueprint Coordinates AI Agents to Investigate Production Issues](articles/2026-11/73bbcb2d707df5a349975be7.md)
 
 <!-- articles:end -->
 
