@@ -6,7 +6,7 @@ Each entry links to the original publisher, keeps its publication date, includes
 
 <!-- articles:start -->
 
-**15 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
+**16 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
 
 - **2026-11-11 · NVIDIA** — [Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory](articles/2026-11/4b30bf9e8a4d0303bec665cd.md)
 - **2026-11-11 · Hugging Face** — [BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model](articles/2026-11/19b4fcb1faac9c9bdbccd358.md)
@@ -23,6 +23,7 @@ Each entry links to the original publisher, keeps its publication date, includes
 - **2026-11-06 · Anthropic / Claude** — [The components of agent memory](articles/2026-11/9bd43ba4c2466855b9f0d164.md)
 - **2026-11-06 · OpenAI** — [Measuring how AI agents handle everyday wet-lab science](articles/2026-11/5f721228af3682c2417b4131.md)
 - **2026-11-05 · Cloudflare** — [Agents aren’t humans (but they kinda are)](articles/2026-11/7f97ab3d43dc53a44c97e2d3.md)
+- **2026-11-05 · Google AI** — [Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips](articles/2026-11/485654c1f98a7cdcb6064f6e.md)
 
 <!-- articles:end -->
 

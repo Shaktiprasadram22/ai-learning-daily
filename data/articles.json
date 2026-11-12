@@ -225,5 +225,20 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-11/7f97ab3d43dc53a44c97e2d3.md",
     "automated": true
+  },
+  {
+    "id": "485654c1f98a7cdcb6064f6e",
+    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash",
+    "source": "Google AI",
+    "published_at": "2026-11-05T17:00:00Z",
+    "added_at": "2026-11-12T05:09:56Z",
+    "topics": [
+      "cost"
+    ],
+    "excerpt": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
+    "practice": "Measure cost per successful chatbot answer before and after trying this technique.",
+    "path": "articles/2026-11/485654c1f98a7cdcb6064f6e.md",
+    "automated": true
   }
 ]
