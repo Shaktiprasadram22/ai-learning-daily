@@ -1,0 +1,36 @@
+name: Publish AI readings
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: ai-readings-publisher
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/checkout@v4
+        with:
+          repository: Shaktiprasadram22/ai-learning-feed
+          ref: 1f1acf43366403348eebbb79678e0f3426490de6
+          path: .feed-engine
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate publisher
+        run: python -m unittest discover -s tests -v
+      - name: Collect and commit new readings
+        env:
+          PYTHONPATH: .feed-engine
+        run: |
+          git config user.name 'Shaktiprasadram22'
+          git config user.email '108186897+Shaktiprasadram22@users.noreply.github.com'
+          python publisher.py --commit --cache "$RUNNER_TEMP/ai-learning-feed.json"
+          git push origin HEAD:main

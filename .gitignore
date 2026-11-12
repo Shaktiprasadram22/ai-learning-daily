@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+.feed-engine/
+.cache/
+.env*
+*.log

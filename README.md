@@ -1,0 +1,45 @@
+# AI Learning Daily
+
+An automatically maintained reading list for practical AI engineering: **lower costs, faster inference, and better systems**.
+
+Each entry links to the original publisher, keeps its publication date, includes a short attributed excerpt, and offers a keyword-based practice idea. These are reading resources, not claims that the linked work or suggested experiments were completed by this repository's maintainer.
+
+<!-- articles:start -->
+
+The first collection will appear here after the publisher runs.
+
+<!-- articles:end -->
+
+## How it works
+
+A daily external scheduler starts the GitHub Actions publisher at **10:00 AM Asia/Kolkata**. The publisher uses [AI Learning Feed](https://github.com/Shaktiprasadram22/ai-learning-feed), pinned to a specific source revision, to read official feeds and article indexes.
+
+- Sources: OpenAI, Anthropic / Claude, n8n, Google AI, Google Developers, Google Research, Hugging Face, Cloudflare, and NVIDIA Developer.
+- Each previously unseen article creates **one commit** containing its entry and updated reading index.
+- URL-based duplicate detection survives repeated runs and tracking-link variations.
+- Up to 20 new entries per run, published within the last 14 days. The first run imports recent articles; publication dates remain distinct from collection dates.
+- Unavailable publishers are skipped. A complete source outage fails the run. A day without new articles creates no empty or filler commits.
+- No AI model, paid API, database, or full-text article copying. Descriptions are short publisher excerpts, not AI-written summaries; practice ideas are keyword-based templates.
+
+Open **Actions → Publish AI readings → Run workflow** to collect on demand. The public workflow uses GitHub's temporary repository token; no personal credential is stored in this repository.
+
+## Run locally
+
+Requires Python 3.10+ and Git. Clone this project and its feed engine into adjacent directories:
+
+```sh
+git clone https://github.com/Shaktiprasadram22/ai-learning-daily.git
+git clone https://github.com/Shaktiprasadram22/ai-learning-feed.git
+git -C ai-learning-feed checkout 1f1acf43366403348eebbb79678e0f3426490de6
+cd ai-learning-daily
+python3 -m unittest discover -s tests -v
+PYTHONPATH=../ai-learning-feed python3 publisher.py
+```
+
+The last command writes entries locally without committing. Start from a clean checkout and use `--commit` to create one commit per entry; configure your Git author first. Pushing is a separate action. `--report report.json` accepts a saved AI Learning Feed export for offline testing.
+
+The full machine-readable catalog lives in [data/articles.json](data/articles.json); Markdown entries live under `articles/`. Commit timestamps reflect the actual run, without backdating. Future runs depend on publisher availability, valid scheduler credentials, and GitHub Actions availability.
+
+## License
+
+Publisher code: **GPL-3.0-only**. The feed engine has the same license and is credited in [NOTICE.md](NOTICE.md). Linked articles, titles, and publisher excerpts retain their original owners' rights; this code license does not relicense them. This project is independent of the publishers listed above.
