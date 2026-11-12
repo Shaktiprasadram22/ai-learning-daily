@@ -255,5 +255,20 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-11/14e90e72d3401ddf817f6448.md",
     "automated": true
+  },
+  {
+    "id": "2d1d326185a62641bed05bf7",
+    "title": "Flipsnack grows product signups with conversion optimization",
+    "url": "https://openai.com/ads/customers/flipsnack",
+    "source": "OpenAI",
+    "published_at": "2026-11-05T00:45:15Z",
+    "added_at": "2026-11-12T05:09:56Z",
+    "topics": [
+      "cost"
+    ],
+    "excerpt": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+    "practice": "Measure cost per successful chatbot answer before and after trying this technique.",
+    "path": "articles/2026-11/2d1d326185a62641bed05bf7.md",
+    "automated": true
   }
 ]
