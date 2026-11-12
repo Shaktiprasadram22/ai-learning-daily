@@ -88,5 +88,20 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-11/a8c416e2c7748124802b5f5d.md",
     "automated": true
+  },
+  {
+    "id": "25d05ca668539a6649120826",
+    "title": "Start and Restore GPU Workloads in Seconds with NVIDIA Snapshot",
+    "url": "https://developer.nvidia.com/blog/start-and-restore-gpu-workloads-in-seconds-with-nvidia-snapshot",
+    "source": "NVIDIA",
+    "published_at": "2026-11-10T15:00:00Z",
+    "added_at": "2026-11-12T05:09:56Z",
+    "topics": [
+      "latency"
+    ],
+    "excerpt": "NVIDIA Snapshot, a new open-source component of the NVIDIA DSX AI Factory Platform, makes initialized GPU workloads reusable across inference...",
+    "practice": "Benchmark this technique on the same prompts; compare first-token and total response time.",
+    "path": "articles/2026-11/25d05ca668539a6649120826.md",
+    "automated": true
   }
 ]
