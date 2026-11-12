@@ -164,5 +164,21 @@
     "practice": "Benchmark this technique on the same prompts; compare first-token and total response time.",
     "path": "articles/2026-11/4e0aa3919fe104e56d23bd7a.md",
     "automated": true
+  },
+  {
+    "id": "581dcf5cabc7cf1758ba78bb",
+    "title": "Accelerating Reinforcement Learning Weight Refit with the Reshard Collective",
+    "url": "https://developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective",
+    "source": "NVIDIA",
+    "published_at": "2026-11-06T18:03:26Z",
+    "added_at": "2026-11-12T05:09:56Z",
+    "topics": [
+      "build",
+      "latency"
+    ],
+    "excerpt": "During reinforcement learning (RL) post-training, training trajectories are generated on the fly by running inference with the current policy model. For...",
+    "practice": "Benchmark this technique on the same prompts; compare first-token and total response time.",
+    "path": "articles/2026-11/581dcf5cabc7cf1758ba78bb.md",
+    "automated": true
   }
 ]
