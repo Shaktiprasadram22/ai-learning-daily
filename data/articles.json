@@ -180,5 +180,20 @@
     "practice": "Benchmark this technique on the same prompts; compare first-token and total response time.",
     "path": "articles/2026-11/581dcf5cabc7cf1758ba78bb.md",
     "automated": true
+  },
+  {
+    "id": "9bd43ba4c2466855b9f0d164",
+    "title": "The components of agent memory",
+    "url": "https://anthropic.com/research/components-of-agent-memory",
+    "source": "Anthropic / Claude",
+    "published_at": "2026-11-06T00:00:00Z",
+    "added_at": "2026-11-12T05:09:56Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/9bd43ba4c2466855b9f0d164.md",
+    "automated": true
   }
 ]
