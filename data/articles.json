@@ -347,5 +347,20 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-11/cbda9238a3684b28e47a3f03.md",
     "automated": true
+  },
+  {
+    "id": "1f522e8436ab4f4eb31b9e21",
+    "title": "Use NVIDIA NeMo to Turn Agent Failures into Tests and Harness Fixes",
+    "url": "https://developer.nvidia.com/blog/use-nvidia-nemo-to-turn-agent-failures-into-tests-and-harness-fixes",
+    "source": "NVIDIA",
+    "published_at": "2026-11-04T16:00:00Z",
+    "added_at": "2026-11-13T04:31:07Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "Turn production evidence into prioritized issues and custom evaluations that help you improve prompts, tools, models, memory, skills, and harness code. When you...",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/1f522e8436ab4f4eb31b9e21.md",
+    "automated": true
   }
 ]
