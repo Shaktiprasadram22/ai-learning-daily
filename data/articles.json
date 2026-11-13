@@ -484,5 +484,20 @@
     "practice": "Measure cost per successful chatbot answer before and after trying this technique.",
     "path": "articles/2026-11/5d33ed0c66ace544e65f6063.md",
     "automated": true
+  },
+  {
+    "id": "869014b81cc7bf413692aea3",
+    "title": "Build a Validated Kubernetes Runtime for NVIDIA Dynamo",
+    "url": "https://developer.nvidia.com/blog/build-a-validated-kubernetes-runtime-for-nvidia-dynamo",
+    "source": "NVIDIA",
+    "published_at": "2026-10-30T21:35:31Z",
+    "added_at": "2026-11-13T04:31:07Z",
+    "topics": [
+      "latency"
+    ],
+    "excerpt": "Teams building AI applications need a repeatable path from a model configuration to a working inference endpoint. NVIDIA Dynamo is a distributed inference...",
+    "practice": "Benchmark this technique on the same prompts; compare first-token and total response time.",
+    "path": "articles/2026-10/869014b81cc7bf413692aea3.md",
+    "automated": true
   }
 ]
