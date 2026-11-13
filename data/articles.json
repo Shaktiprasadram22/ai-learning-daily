@@ -469,5 +469,20 @@
     "practice": "Measure cost per successful chatbot answer before and after trying this technique.",
     "path": "articles/2026-11/fb338bda1aab8560d19147c8.md",
     "automated": true
+  },
+  {
+    "id": "5d33ed0c66ace544e65f6063",
+    "title": "Introducing the Grid Protectors Program",
+    "url": "https://openai.com/index/grid-protectors-program",
+    "source": "OpenAI",
+    "published_at": "2026-11-02T15:00:00Z",
+    "added_at": "2026-11-13T04:31:07Z",
+    "topics": [
+      "cost"
+    ],
+    "excerpt": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+    "practice": "Measure cost per successful chatbot answer before and after trying this technique.",
+    "path": "articles/2026-11/5d33ed0c66ace544e65f6063.md",
+    "automated": true
   }
 ]
