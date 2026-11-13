@@ -409,5 +409,20 @@
     "practice": "Benchmark this technique on the same prompts; compare first-token and total response time.",
     "path": "articles/2026-11/25493a43cba550c7fe81484a.md",
     "automated": true
+  },
+  {
+    "id": "fc87a45dcfbf03d417250555",
+    "title": "Heimstaden is changing residential real estate management with AI",
+    "url": "https://openai.com/index/heimstaden",
+    "source": "OpenAI",
+    "published_at": "2026-11-03T08:00:00Z",
+    "added_at": "2026-11-13T04:31:07Z",
+    "topics": [
+      "cost"
+    ],
+    "excerpt": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+    "practice": "Measure cost per successful chatbot answer before and after trying this technique.",
+    "path": "articles/2026-11/fc87a45dcfbf03d417250555.md",
+    "automated": true
   }
 ]

@@ -6,7 +6,7 @@ Each entry links to the original publisher, keeps its publication date, includes
 
 <!-- articles:start -->
 
-**27 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
+**28 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
 
 - **2026-11-12 · OpenAI** — [How Amplitude ships product improvements in 1–2 days with OpenAI](articles/2026-11/67672a694e389b29af5588bf.md)
 - **2026-11-12 · Google Developers** — [How Agent Anomaly Detection scores on benchmarks we didn't write](articles/2026-11/d99b7127f7fd99e6149610b8.md)
@@ -35,6 +35,7 @@ Each entry links to the original publisher, keeps its publication date, includes
 - **2026-11-04 · Cloudflare** — [See the agents, set the terms: New visibility and control for personal agents](articles/2026-11/982ed481e075c1fb75dce396.md)
 - **2026-11-04 · OpenAI** — [DevRev delivers autonomous self-service with GPT-6.1 Sol](articles/2026-11/981785a01550309d0739d8f0.md)
 - **2026-11-03 · OpenAI** — [Accelerating engineering for the physical world](articles/2026-11/25493a43cba550c7fe81484a.md)
+- **2026-11-03 · OpenAI** — [Heimstaden is changing residential real estate management with AI](articles/2026-11/fc87a45dcfbf03d417250555.md)
 
 <!-- articles:end -->
 
