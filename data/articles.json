@@ -377,5 +377,22 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-11/982ed481e075c1fb75dce396.md",
     "automated": true
+  },
+  {
+    "id": "981785a01550309d0739d8f0",
+    "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+    "url": "https://openai.com/index/devrev-enterprise-self-service",
+    "source": "OpenAI",
+    "published_at": "2026-11-04T00:00:00Z",
+    "added_at": "2026-11-13T04:31:07Z",
+    "topics": [
+      "build",
+      "cost",
+      "latency"
+    ],
+    "excerpt": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+    "practice": "Benchmark this technique on the same prompts; compare first-token and total response time.",
+    "path": "articles/2026-11/981785a01550309d0739d8f0.md",
+    "automated": true
   }
 ]
