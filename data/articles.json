@@ -439,5 +439,20 @@
     "practice": "Benchmark this technique on the same prompts; compare first-token and total response time.",
     "path": "articles/2026-11/34e7d62615202d0de65fe802.md",
     "automated": true
+  },
+  {
+    "id": "6d49bd650ae9b86be9f3d14f",
+    "title": "Keep Distributed Training Running with Automated Workload Recovery",
+    "url": "https://developer.nvidia.com/blog/keep-distributed-training-running-with-automated-workload-recovery",
+    "source": "NVIDIA",
+    "published_at": "2026-11-02T22:43:05Z",
+    "added_at": "2026-11-13T04:31:07Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "As distributed AI training scales, failures across hardware and software dependencies increasingly disrupt training progress, making fast, reliable recovery...",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/6d49bd650ae9b86be9f3d14f.md",
+    "automated": true
   }
 ]

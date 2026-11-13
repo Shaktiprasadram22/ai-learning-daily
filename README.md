@@ -6,7 +6,7 @@ Each entry links to the original publisher, keeps its publication date, includes
 
 <!-- articles:start -->
 
-**29 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
+**30 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
 
 - **2026-11-12 · OpenAI** — [How Amplitude ships product improvements in 1–2 days with OpenAI](articles/2026-11/67672a694e389b29af5588bf.md)
 - **2026-11-12 · Google Developers** — [How Agent Anomaly Detection scores on benchmarks we didn't write](articles/2026-11/d99b7127f7fd99e6149610b8.md)
@@ -37,6 +37,7 @@ Each entry links to the original publisher, keeps its publication date, includes
 - **2026-11-03 · OpenAI** — [Accelerating engineering for the physical world](articles/2026-11/25493a43cba550c7fe81484a.md)
 - **2026-11-03 · OpenAI** — [Heimstaden is changing residential real estate management with AI](articles/2026-11/fc87a45dcfbf03d417250555.md)
 - **2026-11-03 · OpenAI** — [How Cisco defends at machine speed with OpenAI](articles/2026-11/34e7d62615202d0de65fe802.md)
+- **2026-11-02 · NVIDIA** — [Keep Distributed Training Running with Automated Workload Recovery](articles/2026-11/6d49bd650ae9b86be9f3d14f.md)
 
 <!-- articles:end -->
 
