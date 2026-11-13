@@ -394,5 +394,20 @@
     "practice": "Benchmark this technique on the same prompts; compare first-token and total response time.",
     "path": "articles/2026-11/981785a01550309d0739d8f0.md",
     "automated": true
+  },
+  {
+    "id": "25493a43cba550c7fe81484a",
+    "title": "Accelerating engineering for the physical world",
+    "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+    "source": "OpenAI",
+    "published_at": "2026-11-03T12:00:00Z",
+    "added_at": "2026-11-13T04:31:07Z",
+    "topics": [
+      "latency"
+    ],
+    "excerpt": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+    "practice": "Benchmark this technique on the same prompts; compare first-token and total response time.",
+    "path": "articles/2026-11/25493a43cba550c7fe81484a.md",
+    "automated": true
   }
 ]
