@@ -332,5 +332,20 @@
     "practice": "Benchmark this technique on the same prompts; compare first-token and total response time.",
     "path": "articles/2026-11/d99b7127f7fd99e6149610b8.md",
     "automated": true
+  },
+  {
+    "id": "cbda9238a3684b28e47a3f03",
+    "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+    "url": "https://huggingface.co/blog/3d-lora-finetuning",
+    "source": "Hugging Face",
+    "published_at": "2026-11-12T00:00:00Z",
+    "added_at": "2026-11-13T04:31:07Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/cbda9238a3684b28e47a3f03.md",
+    "automated": true
   }
 ]
