@@ -514,5 +514,20 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-10/cfb4189f31938d74a87ffcf0.md",
     "automated": true
+  },
+  {
+    "id": "b0afceb347e7b188bf463de3",
+    "title": "Build Specialized Agents on a Stack You Control with NVIDIA NemoClaw",
+    "url": "https://developer.nvidia.com/blog/build-specialized-agents-on-a-stack-you-control-with-nvidia-nemoclaw",
+    "source": "NVIDIA",
+    "published_at": "2026-10-30T16:00:00Z",
+    "added_at": "2026-11-13T04:31:07Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "Building an autonomous agent requires a model, a harness, and domain-specific tools. To deploy an agent more securely, developers need a runtime that enforces...",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-10/b0afceb347e7b188bf463de3.md",
+    "automated": true
   }
 ]

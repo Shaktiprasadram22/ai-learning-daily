@@ -6,7 +6,7 @@ Each entry links to the original publisher, keeps its publication date, includes
 
 <!-- articles:start -->
 
-**34 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
+**35 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
 
 - **2026-11-12 · OpenAI** — [How Amplitude ships product improvements in 1–2 days with OpenAI](articles/2026-11/67672a694e389b29af5588bf.md)
 - **2026-11-12 · Google Developers** — [How Agent Anomaly Detection scores on benchmarks we didn't write](articles/2026-11/d99b7127f7fd99e6149610b8.md)
