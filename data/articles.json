@@ -316,5 +316,21 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-11/67672a694e389b29af5588bf.md",
     "automated": true
+  },
+  {
+    "id": "d99b7127f7fd99e6149610b8",
+    "title": "How Agent Anomaly Detection scores on benchmarks we didn't write",
+    "url": "https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write",
+    "source": "Google Developers",
+    "published_at": "2026-11-12T00:00:00Z",
+    "added_at": "2026-11-13T04:31:07Z",
+    "topics": [
+      "build",
+      "latency"
+    ],
+    "excerpt": "Agent Anomaly Detection (AAD) provides asynchronous, low-latency monitoring for AI agents by analyzing OpenTelemetry traces and logs to flag goal hijacks and tool misuse. Tested …",
+    "practice": "Benchmark this technique on the same prompts; compare first-token and total response time.",
+    "path": "articles/2026-11/d99b7127f7fd99e6149610b8.md",
+    "automated": true
   }
 ]
