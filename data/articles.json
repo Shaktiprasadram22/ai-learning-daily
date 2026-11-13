@@ -454,5 +454,20 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-11/6d49bd650ae9b86be9f3d14f.md",
     "automated": true
+  },
+  {
+    "id": "fb338bda1aab8560d19147c8",
+    "title": "Support New AI Frameworks Faster Using NVIDIA Workload Map",
+    "url": "https://developer.nvidia.com/blog/support-new-ai-frameworks-faster-using-nvidia-workload-map",
+    "source": "NVIDIA",
+    "published_at": "2026-11-02T16:00:00Z",
+    "added_at": "2026-11-13T04:31:07Z",
+    "topics": [
+      "cost"
+    ],
+    "excerpt": "NVIDIA DSX AI Factory Platform brings together technologies to help the ecosystem design, build, and operate more efficient AI factories, including open source,...",
+    "practice": "Measure cost per successful chatbot answer before and after trying this technique.",
+    "path": "articles/2026-11/fb338bda1aab8560d19147c8.md",
+    "automated": true
   }
 ]
