@@ -499,5 +499,20 @@
     "practice": "Benchmark this technique on the same prompts; compare first-token and total response time.",
     "path": "articles/2026-10/869014b81cc7bf413692aea3.md",
     "automated": true
+  },
+  {
+    "id": "cfb4189f31938d74a87ffcf0",
+    "title": "Run AI Models for Edge Application Development with Just a Few Commands",
+    "url": "https://developer.nvidia.com/blog/run-ai-models-for-edge-application-development-with-just-a-few-commands",
+    "source": "NVIDIA",
+    "published_at": "2026-10-30T20:33:18Z",
+    "added_at": "2026-11-13T04:31:07Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "AI is expanding beyond the data center as developers build a new generation of agents to act at the edge: monitoring driver attention and cabin …",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-10/cfb4189f31938d74a87ffcf0.md",
+    "automated": true
   }
 ]
