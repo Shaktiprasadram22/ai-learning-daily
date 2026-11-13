@@ -6,7 +6,7 @@ Each entry links to the original publisher, keeps its publication date, includes
 
 <!-- articles:start -->
 
-**24 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
+**25 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
 
 - **2026-11-12 · OpenAI** — [How Amplitude ships product improvements in 1–2 days with OpenAI](articles/2026-11/67672a694e389b29af5588bf.md)
 - **2026-11-12 · Google Developers** — [How Agent Anomaly Detection scores on benchmarks we didn't write](articles/2026-11/d99b7127f7fd99e6149610b8.md)
@@ -32,6 +32,7 @@ Each entry links to the original publisher, keeps its publication date, includes
 - **2026-11-04 · NVIDIA** — [How NVIDIA Uses AI Agents to Streamline AI Factory Operations](articles/2026-11/4376fc05a5786b49752e4f6c.md)
 - **2026-11-04 · NVIDIA** — [How NVIDIA Factory Operations Blueprint Coordinates AI Agents to Investigate Production Issues](articles/2026-11/73bbcb2d707df5a349975be7.md)
 - **2026-11-04 · NVIDIA** — [Use NVIDIA NeMo to Turn Agent Failures into Tests and Harness Fixes](articles/2026-11/1f522e8436ab4f4eb31b9e21.md)
+- **2026-11-04 · Cloudflare** — [See the agents, set the terms: New visibility and control for personal agents](articles/2026-11/982ed481e075c1fb75dce396.md)
 
 <!-- articles:end -->
 

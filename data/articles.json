@@ -362,5 +362,20 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-11/1f522e8436ab4f4eb31b9e21.md",
     "automated": true
+  },
+  {
+    "id": "982ed481e075c1fb75dce396",
+    "title": "See the agents, set the terms: New visibility and control for personal agents",
+    "url": "https://blog.cloudflare.com/personal-agents-visibility-control",
+    "source": "Cloudflare",
+    "published_at": "2026-11-04T14:00:00Z",
+    "added_at": "2026-11-13T04:31:07Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "Personal AI agents have changed how users interact with the web, blurring the lines between automated and human traffic. Learn how Cloudflare gives site owners …",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/982ed481e075c1fb75dce396.md",
+    "automated": true
   }
 ]
