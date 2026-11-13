@@ -424,5 +424,20 @@
     "practice": "Measure cost per successful chatbot answer before and after trying this technique.",
     "path": "articles/2026-11/fc87a45dcfbf03d417250555.md",
     "automated": true
+  },
+  {
+    "id": "34e7d62615202d0de65fe802",
+    "title": "How Cisco defends at machine speed with OpenAI",
+    "url": "https://openai.com/index/cisco-cyber",
+    "source": "OpenAI",
+    "published_at": "2026-11-03T08:00:00Z",
+    "added_at": "2026-11-13T04:31:07Z",
+    "topics": [
+      "latency"
+    ],
+    "excerpt": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+    "practice": "Benchmark this technique on the same prompts; compare first-token and total response time.",
+    "path": "articles/2026-11/34e7d62615202d0de65fe802.md",
+    "automated": true
   }
 ]
