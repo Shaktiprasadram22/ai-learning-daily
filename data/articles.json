@@ -544,5 +544,20 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-10/84abd1857de5dfd951d90dcf.md",
     "automated": true
+  },
+  {
+    "id": "a443b3b05538516102c1262d",
+    "title": "Kitesurf is now open source",
+    "url": "https://blog.cloudflare.com/kitesurf-open-source",
+    "source": "Cloudflare",
+    "published_at": "2026-11-13T20:20:21Z",
+    "added_at": "2026-11-14T04:31:08Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "Kitesurf, our experimental browser engine for AI agents, is now open source. Inspect the code, run it locally, or deploy your own instance on Cloudflare …",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/a443b3b05538516102c1262d.md",
+    "automated": true
   }
 ]
