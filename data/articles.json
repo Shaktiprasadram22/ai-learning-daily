@@ -604,5 +604,20 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-11/a99dfdd20d85acbbb850aa77.md",
     "automated": true
+  },
+  {
+    "id": "43af641572cb998c4f69a130",
+    "title": "Building strong safety evaluations",
+    "url": "https://anthropic.com/research/building-strong-safety-evaluations",
+    "source": "Anthropic / Claude",
+    "published_at": "2026-11-13T00:00:00Z",
+    "added_at": "2026-11-14T04:31:08Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/43af641572cb998c4f69a130.md",
+    "automated": true
   }
 ]
