@@ -574,5 +574,20 @@
     "practice": "Benchmark this technique on the same prompts; compare first-token and total response time.",
     "path": "articles/2026-11/b46b6bb43e745acd7c60d611.md",
     "automated": true
+  },
+  {
+    "id": "7d4d71d056da02862d0b2ec1",
+    "title": "Introducing ChatGPT Wallet",
+    "url": "https://openai.com/index/introducing-chatgpt-wallet",
+    "source": "OpenAI",
+    "published_at": "2026-11-13T15:00:00Z",
+    "added_at": "2026-11-14T04:31:08Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/7d4d71d056da02862d0b2ec1.md",
+    "automated": true
   }
 ]
