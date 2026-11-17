@@ -710,5 +710,20 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-11/21e886491b30cfff0403f0b9.md",
     "automated": true
+  },
+  {
+    "id": "21b4758ab52123ac78ffa3db",
+    "title": "Advancing computer-use agents for healthcare teams",
+    "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+    "source": "OpenAI",
+    "published_at": "2026-11-16T06:00:00Z",
+    "added_at": "2026-11-17T04:31:07Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/21b4758ab52123ac78ffa3db.md",
+    "automated": true
   }
 ]

@@ -6,7 +6,7 @@ Each entry links to the original publisher, keeps its publication date, includes
 
 <!-- articles:start -->
 
-**47 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
+**48 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
 
 - **2026-11-16 · NVIDIA** — [Post-Training NVIDIA Nemotron to Increase Accuracy in Your Scientific Domain](articles/2026-11/e5e272e7744c80be5ffb799c.md)
 - **2026-11-16 · NVIDIA** — [NVIDIA Vera Rubin NVL72 Leads Agentic Inference Performance on MLPerf Endpoints v1.0](articles/2026-11/bd4930e0839976d3ed7ae4ae.md)
@@ -14,6 +14,7 @@ Each entry links to the original publisher, keeps its publication date, includes
 - **2026-11-16 · n8n** — [AI made integrations the vendor’s problem](articles/2026-11/3f55c7d30161021585230a4b.md)
 - **2026-11-16 · OpenAI** — [Our first phase of embedded assessments](articles/2026-11/9fe6d2ae73e55f52b8078f18.md)
 - **2026-11-16 · OpenAI** — [More ways to move care forward with ChatGPT for Healthcare](articles/2026-11/21e886491b30cfff0403f0b9.md)
+- **2026-11-16 · OpenAI** — [Advancing computer-use agents for healthcare teams](articles/2026-11/21b4758ab52123ac78ffa3db.md)
 - **2026-11-13 · Cloudflare** — [Kitesurf is now open source](articles/2026-11/a443b3b05538516102c1262d.md)
 - **2026-11-13 · NVIDIA** — [Run Native DLA Inference in Python on NVIDIA Jetson AGX Orin Using cuDLA](articles/2026-11/b46b6bb43e745acd7c60d611.md)
 - **2026-11-13 · OpenAI** — [Introducing ChatGPT Wallet](articles/2026-11/7d4d71d056da02862d0b2ec1.md)
@@ -37,7 +38,6 @@ Each entry links to the original publisher, keeps its publication date, includes
 - **2026-11-06 · Anthropic / Claude** — [The components of agent memory](articles/2026-11/9bd43ba4c2466855b9f0d164.md)
 - **2026-11-06 · OpenAI** — [Measuring how AI agents handle everyday wet-lab science](articles/2026-11/5f721228af3682c2417b4131.md)
 - **2026-11-05 · Cloudflare** — [Agents aren’t humans (but they kinda are)](articles/2026-11/7f97ab3d43dc53a44c97e2d3.md)
-- **2026-11-05 · Google AI** — [Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips](articles/2026-11/485654c1f98a7cdcb6064f6e.md)
 
 <!-- articles:end -->
 
