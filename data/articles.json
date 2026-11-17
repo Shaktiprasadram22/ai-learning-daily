@@ -680,5 +680,20 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-11/3f55c7d30161021585230a4b.md",
     "automated": true
+  },
+  {
+    "id": "9fe6d2ae73e55f52b8078f18",
+    "title": "Our first phase of embedded assessments",
+    "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+    "source": "OpenAI",
+    "published_at": "2026-11-16T08:00:00Z",
+    "added_at": "2026-11-17T04:31:07Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/9fe6d2ae73e55f52b8078f18.md",
+    "automated": true
   }
 ]
