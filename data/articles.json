@@ -756,5 +756,20 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-11/8b718dabaac7aeb3b971360f.md",
     "automated": true
+  },
+  {
+    "id": "3a916bbc0068beb6ab87c7e6",
+    "title": "Unlocking Stable On-Policy RL on TPU with Bitwise-Zero Train–Inference Mismatch",
+    "url": "https://developers.googleblog.com/unlocking-stable-on-policy-rl-on-tpu-with-bitwise-zero-traininference-mismatch",
+    "source": "Google Developers",
+    "published_at": "2026-11-16T00:00:00Z",
+    "added_at": "2026-11-17T04:31:07Z",
+    "topics": [
+      "latency"
+    ],
+    "excerpt": "How we eliminated floating-point train–inference logprob drift for on-policy LLM reinforcement learning across 64 Cloud TPU v5p chips using a generalizable four-part JAX and Pallas …",
+    "practice": "Benchmark this technique on the same prompts; compare first-token and total response time.",
+    "path": "articles/2026-11/3a916bbc0068beb6ab87c7e6.md",
+    "automated": true
   }
 ]
