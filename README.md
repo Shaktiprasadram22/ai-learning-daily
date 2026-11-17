@@ -6,11 +6,12 @@ Each entry links to the original publisher, keeps its publication date, includes
 
 <!-- articles:start -->
 
-**44 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
+**45 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
 
 - **2026-11-16 · NVIDIA** — [Post-Training NVIDIA Nemotron to Increase Accuracy in Your Scientific Domain](articles/2026-11/e5e272e7744c80be5ffb799c.md)
 - **2026-11-16 · NVIDIA** — [NVIDIA Vera Rubin NVL72 Leads Agentic Inference Performance on MLPerf Endpoints v1.0](articles/2026-11/bd4930e0839976d3ed7ae4ae.md)
 - **2026-11-16 · NVIDIA** — [NVIDIA Vera Rubin NVL72 Achieves up to 2x Blackwell Ultra Performance in MLPerf Training v6.1](articles/2026-11/7ec90737528b7237217e7205.md)
+- **2026-11-16 · n8n** — [AI made integrations the vendor’s problem](articles/2026-11/3f55c7d30161021585230a4b.md)
 - **2026-11-13 · Cloudflare** — [Kitesurf is now open source](articles/2026-11/a443b3b05538516102c1262d.md)
 - **2026-11-13 · NVIDIA** — [Run Native DLA Inference in Python on NVIDIA Jetson AGX Orin Using cuDLA](articles/2026-11/b46b6bb43e745acd7c60d611.md)
 - **2026-11-13 · OpenAI** — [Introducing ChatGPT Wallet](articles/2026-11/7d4d71d056da02862d0b2ec1.md)
@@ -37,7 +38,6 @@ Each entry links to the original publisher, keeps its publication date, includes
 - **2026-11-05 · Google AI** — [Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips](articles/2026-11/485654c1f98a7cdcb6064f6e.md)
 - **2026-11-05 · OpenAI** — [GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents](articles/2026-11/14e90e72d3401ddf817f6448.md)
 - **2026-11-05 · OpenAI** — [Flipsnack grows product signups with conversion optimization](articles/2026-11/2d1d326185a62641bed05bf7.md)
-- **2026-11-04 · NVIDIA** — [How NVIDIA Uses AI Agents to Streamline AI Factory Operations](articles/2026-11/4376fc05a5786b49752e4f6c.md)
 
 <!-- articles:end -->
 

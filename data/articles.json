@@ -665,5 +665,20 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-11/7ec90737528b7237217e7205.md",
     "automated": true
+  },
+  {
+    "id": "3f55c7d30161021585230a4b",
+    "title": "AI made integrations the vendor’s problem",
+    "url": "https://blog.n8n.io/ai-made-integrations-the-vendors-problem",
+    "source": "n8n",
+    "published_at": "2026-11-16T10:17:32Z",
+    "added_at": "2026-11-17T04:31:07Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "In the second iteration of the AI Agent Development Tools report , I replaced the integrability axis with enterprise-readiness. I wanted this to signify the …",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/3f55c7d30161021585230a4b.md",
+    "automated": true
   }
 ]
