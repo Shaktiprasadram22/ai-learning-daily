@@ -741,5 +741,20 @@
     "practice": "Measure cost per successful chatbot answer before and after trying this technique.",
     "path": "articles/2026-11/d4dd27aa4150d5d5e7ff227e.md",
     "automated": true
+  },
+  {
+    "id": "8b718dabaac7aeb3b971360f",
+    "title": "Securing Your Agents: A Hands-On Guide to Agent Anomaly Detection",
+    "url": "https://developers.googleblog.com/securing-your-agents-a-hands-on-guide-to-agent-anomaly-detection",
+    "source": "Google Developers",
+    "published_at": "2026-11-16T00:00:00Z",
+    "added_at": "2026-11-17T04:31:07Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "This guide walks developers through setting up Agent Anomaly Detection on the Gemini Enterprise Agent Platform to monitor AI agent telemetry and catch behavioral risks. …",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/8b718dabaac7aeb3b971360f.md",
+    "automated": true
   }
 ]

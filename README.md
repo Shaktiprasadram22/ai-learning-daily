@@ -6,7 +6,7 @@ Each entry links to the original publisher, keeps its publication date, includes
 
 <!-- articles:start -->
 
-**49 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
+**50 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
 
 - **2026-11-16 · NVIDIA** — [Post-Training NVIDIA Nemotron to Increase Accuracy in Your Scientific Domain](articles/2026-11/e5e272e7744c80be5ffb799c.md)
 - **2026-11-16 · NVIDIA** — [NVIDIA Vera Rubin NVL72 Leads Agentic Inference Performance on MLPerf Endpoints v1.0](articles/2026-11/bd4930e0839976d3ed7ae4ae.md)
@@ -16,6 +16,7 @@ Each entry links to the original publisher, keeps its publication date, includes
 - **2026-11-16 · OpenAI** — [More ways to move care forward with ChatGPT for Healthcare](articles/2026-11/21e886491b30cfff0403f0b9.md)
 - **2026-11-16 · OpenAI** — [Advancing computer-use agents for healthcare teams](articles/2026-11/21b4758ab52123ac78ffa3db.md)
 - **2026-11-16 · Google Developers** — [Agents are sessions, not requests: size GKE node pools for AI agent sessions](articles/2026-11/d4dd27aa4150d5d5e7ff227e.md)
+- **2026-11-16 · Google Developers** — [Securing Your Agents: A Hands-On Guide to Agent Anomaly Detection](articles/2026-11/8b718dabaac7aeb3b971360f.md)
 - **2026-11-13 · Cloudflare** — [Kitesurf is now open source](articles/2026-11/a443b3b05538516102c1262d.md)
 - **2026-11-13 · NVIDIA** — [Run Native DLA Inference in Python on NVIDIA Jetson AGX Orin Using cuDLA](articles/2026-11/b46b6bb43e745acd7c60d611.md)
 - **2026-11-13 · OpenAI** — [Introducing ChatGPT Wallet](articles/2026-11/7d4d71d056da02862d0b2ec1.md)
@@ -37,7 +38,6 @@ Each entry links to the original publisher, keeps its publication date, includes
 - **2026-11-06 · NVIDIA** — [Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs](articles/2026-11/4e0aa3919fe104e56d23bd7a.md)
 - **2026-11-06 · NVIDIA** — [Accelerating Reinforcement Learning Weight Refit with the Reshard Collective](articles/2026-11/581dcf5cabc7cf1758ba78bb.md)
 - **2026-11-06 · Anthropic / Claude** — [The components of agent memory](articles/2026-11/9bd43ba4c2466855b9f0d164.md)
-- **2026-11-06 · OpenAI** — [Measuring how AI agents handle everyday wet-lab science](articles/2026-11/5f721228af3682c2417b4131.md)
 
 <!-- articles:end -->
 
