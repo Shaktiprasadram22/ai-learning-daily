@@ -6,8 +6,9 @@ Each entry links to the original publisher, keeps its publication date, includes
 
 <!-- articles:start -->
 
-**41 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
+**42 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
 
+- **2026-11-16 · NVIDIA** — [Post-Training NVIDIA Nemotron to Increase Accuracy in Your Scientific Domain](articles/2026-11/e5e272e7744c80be5ffb799c.md)
 - **2026-11-13 · Cloudflare** — [Kitesurf is now open source](articles/2026-11/a443b3b05538516102c1262d.md)
 - **2026-11-13 · NVIDIA** — [Run Native DLA Inference in Python on NVIDIA Jetson AGX Orin Using cuDLA](articles/2026-11/b46b6bb43e745acd7c60d611.md)
 - **2026-11-13 · OpenAI** — [Introducing ChatGPT Wallet](articles/2026-11/7d4d71d056da02862d0b2ec1.md)
@@ -37,7 +38,6 @@ Each entry links to the original publisher, keeps its publication date, includes
 - **2026-11-04 · NVIDIA** — [How NVIDIA Uses AI Agents to Streamline AI Factory Operations](articles/2026-11/4376fc05a5786b49752e4f6c.md)
 - **2026-11-04 · NVIDIA** — [How NVIDIA Factory Operations Blueprint Coordinates AI Agents to Investigate Production Issues](articles/2026-11/73bbcb2d707df5a349975be7.md)
 - **2026-11-04 · NVIDIA** — [Use NVIDIA NeMo to Turn Agent Failures into Tests and Harness Fixes](articles/2026-11/1f522e8436ab4f4eb31b9e21.md)
-- **2026-11-04 · Cloudflare** — [See the agents, set the terms: New visibility and control for personal agents](articles/2026-11/982ed481e075c1fb75dce396.md)
 
 <!-- articles:end -->
 
