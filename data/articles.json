@@ -650,5 +650,20 @@
     "practice": "Benchmark this technique on the same prompts; compare first-token and total response time.",
     "path": "articles/2026-11/bd4930e0839976d3ed7ae4ae.md",
     "automated": true
+  },
+  {
+    "id": "7ec90737528b7237217e7205",
+    "title": "NVIDIA Vera Rubin NVL72 Achieves up to 2x Blackwell Ultra Performance in MLPerf Training v6.1",
+    "url": "https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-achieves-up-to-2x-blackwell-ultra-performance-in-mlperf-training-v6-1",
+    "source": "NVIDIA",
+    "published_at": "2026-11-16T16:00:00Z",
+    "added_at": "2026-11-17T04:31:07Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "As AI agents tackle increasingly complex workflows, reducing time-to-train is critical for rapidly iterating on both models and the agents they power. MLPerf...",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/7ec90737528b7237217e7205.md",
+    "automated": true
   }
 ]
