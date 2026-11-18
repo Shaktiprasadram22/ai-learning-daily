@@ -834,5 +834,20 @@
     "practice": "Measure cost per successful chatbot answer before and after trying this technique.",
     "path": "articles/2026-11/7c3a077a80825638365ff213.md",
     "automated": true
+  },
+  {
+    "id": "3d0957b329c2f381935ad1f1",
+    "title": "Build full-stack Android apps with Gemini in Google AI Studio",
+    "url": "https://developers.googleblog.com/build-full-stack-android-apps-with-gemini-in-google-ai-studio",
+    "source": "Google Developers",
+    "published_at": "2026-11-17T00:00:00Z",
+    "added_at": "2026-11-18T04:31:08Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "Google AI Studio now lets developers build, test, and ship full-stack Kotlin Android apps from a single prompt—complete with Cloud Firestore, Firebase Authentication, Firebase AI …",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/3d0957b329c2f381935ad1f1.md",
+    "automated": true
   }
 ]
