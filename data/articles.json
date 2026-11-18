@@ -803,5 +803,20 @@
     "practice": "Benchmark this technique on the same prompts; compare first-token and total response time.",
     "path": "articles/2026-11/ef0668bcb4a436fa3ea78ed7.md",
     "automated": true
+  },
+  {
+    "id": "b43ef08ac3ed4f7af6f4fa4f",
+    "title": "Astra for Law leads in legal intelligence",
+    "url": "https://openai.com/index/astra-law-6-2",
+    "source": "OpenAI",
+    "published_at": "2026-11-17T00:00:00Z",
+    "added_at": "2026-11-18T04:31:08Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/b43ef08ac3ed4f7af6f4fa4f.md",
+    "automated": true
   }
 ]
