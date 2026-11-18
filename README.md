@@ -6,9 +6,10 @@ Each entry links to the original publisher, keeps its publication date, includes
 
 <!-- articles:start -->
 
-**52 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
+**53 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
 
 - **2026-11-17 · OpenAI** — [Introducing GPT-6.2 Astra and Sol](articles/2026-11/8f6af8c44a4a1bfb5de31585.md)
+- **2026-11-17 · NVIDIA** — [Co-Designing Sparse Attention for Efficient Long-Context Inference](articles/2026-11/ef0668bcb4a436fa3ea78ed7.md)
 - **2026-11-16 · NVIDIA** — [Post-Training NVIDIA Nemotron to Increase Accuracy in Your Scientific Domain](articles/2026-11/e5e272e7744c80be5ffb799c.md)
 - **2026-11-16 · NVIDIA** — [NVIDIA Vera Rubin NVL72 Leads Agentic Inference Performance on MLPerf Endpoints v1.0](articles/2026-11/bd4930e0839976d3ed7ae4ae.md)
 - **2026-11-16 · NVIDIA** — [NVIDIA Vera Rubin NVL72 Achieves up to 2x Blackwell Ultra Performance in MLPerf Training v6.1](articles/2026-11/7ec90737528b7237217e7205.md)
@@ -37,7 +38,6 @@ Each entry links to the original publisher, keeps its publication date, includes
 - **2026-11-10 · n8n** — [Meet Nod: a standalone personal agent from n8n Labs that runs on your computer](articles/2026-11/5460776ef92cacf5d941db2b.md)
 - **2026-11-10 · OpenAI** — [Cogent and OpenAI build cyber defense factories for enterprises](articles/2026-11/37e4452e64c861cffe83ba46.md)
 - **2026-11-09 · OpenAI** — [CodeRabbit scales agentic software development and ships 20x more](articles/2026-11/02e9abf47eaf3fa01f98fe0d.md)
-- **2026-11-06 · NVIDIA** — [Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs](articles/2026-11/4e0aa3919fe104e56d23bd7a.md)
 
 <!-- articles:end -->
 
