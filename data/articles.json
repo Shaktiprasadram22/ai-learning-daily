@@ -771,5 +771,20 @@
     "practice": "Benchmark this technique on the same prompts; compare first-token and total response time.",
     "path": "articles/2026-11/3a916bbc0068beb6ab87c7e6.md",
     "automated": true
+  },
+  {
+    "id": "8f6af8c44a4a1bfb5de31585",
+    "title": "Introducing GPT-6.2 Astra and Sol",
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+    "source": "OpenAI",
+    "published_at": "2026-11-17T17:45:00Z",
+    "added_at": "2026-11-18T04:31:08Z",
+    "topics": [
+      "cost"
+    ],
+    "excerpt": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+    "practice": "Measure cost per successful chatbot answer before and after trying this technique.",
+    "path": "articles/2026-11/8f6af8c44a4a1bfb5de31585.md",
+    "automated": true
   }
 ]
