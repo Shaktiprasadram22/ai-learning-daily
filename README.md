@@ -6,11 +6,12 @@ Each entry links to the original publisher, keeps its publication date, includes
 
 <!-- articles:start -->
 
-**54 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
+**55 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
 
 - **2026-11-17 · OpenAI** — [Introducing GPT-6.2 Astra and Sol](articles/2026-11/8f6af8c44a4a1bfb5de31585.md)
 - **2026-11-17 · NVIDIA** — [Co-Designing Sparse Attention for Efficient Long-Context Inference](articles/2026-11/ef0668bcb4a436fa3ea78ed7.md)
 - **2026-11-17 · OpenAI** — [Astra for Law leads in legal intelligence](articles/2026-11/b43ef08ac3ed4f7af6f4fa4f.md)
+- **2026-11-17 · Google Developers** — [Gemini 4 Hydrogen: a faster model for general purpose robotics](articles/2026-11/7c3a077a80825638365ff213.md)
 - **2026-11-16 · NVIDIA** — [Post-Training NVIDIA Nemotron to Increase Accuracy in Your Scientific Domain](articles/2026-11/e5e272e7744c80be5ffb799c.md)
 - **2026-11-16 · NVIDIA** — [NVIDIA Vera Rubin NVL72 Leads Agentic Inference Performance on MLPerf Endpoints v1.0](articles/2026-11/bd4930e0839976d3ed7ae4ae.md)
 - **2026-11-16 · NVIDIA** — [NVIDIA Vera Rubin NVL72 Achieves up to 2x Blackwell Ultra Performance in MLPerf Training v6.1](articles/2026-11/7ec90737528b7237217e7205.md)
@@ -37,7 +38,6 @@ Each entry links to the original publisher, keeps its publication date, includes
 - **2026-11-10 · NVIDIA** — [Agent Substrate: Advancing Kubernetes for Agents at Scale](articles/2026-11/a8c416e2c7748124802b5f5d.md)
 - **2026-11-10 · NVIDIA** — [Start and Restore GPU Workloads in Seconds with NVIDIA Snapshot](articles/2026-11/25d05ca668539a6649120826.md)
 - **2026-11-10 · n8n** — [Meet Nod: a standalone personal agent from n8n Labs that runs on your computer](articles/2026-11/5460776ef92cacf5d941db2b.md)
-- **2026-11-10 · OpenAI** — [Cogent and OpenAI build cyber defense factories for enterprises](articles/2026-11/37e4452e64c861cffe83ba46.md)
 
 <!-- articles:end -->
 

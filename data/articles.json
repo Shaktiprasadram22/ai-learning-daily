@@ -818,5 +818,21 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-11/b43ef08ac3ed4f7af6f4fa4f.md",
     "automated": true
+  },
+  {
+    "id": "7c3a077a80825638365ff213",
+    "title": "Gemini 4 Hydrogen: a faster model for general purpose robotics",
+    "url": "https://developers.googleblog.com/gemini-hydrogen-for-robotics",
+    "source": "Google Developers",
+    "published_at": "2026-11-17T00:00:00Z",
+    "added_at": "2026-11-18T04:31:08Z",
+    "topics": [
+      "build",
+      "cost"
+    ],
+    "excerpt": "Google's Gemini 4 Hydrogen brings strong spatial and embodied reasoning capabilities to a fast, efficient model built specifically for robotics. To help developers put these …",
+    "practice": "Measure cost per successful chatbot answer before and after trying this technique.",
+    "path": "articles/2026-11/7c3a077a80825638365ff213.md",
+    "automated": true
   }
 ]
