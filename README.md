@@ -6,9 +6,10 @@ Each entry links to the original publisher, keeps its publication date, includes
 
 <!-- articles:start -->
 
-**57 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
+**58 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
 
 - **2026-11-18 · Hugging Face** — [Why your fine-tuning job takes longer than the FLOPs say](articles/2026-11/e55c8f2df06c07ffc92b5ea2.md)
+- **2026-11-18 · NVIDIA** — [Build Training-Ready Physical AI Datasets with Two Prompts in NVIDIA Cosmos](articles/2026-11/e0a5680da648bf1e9f0c1f68.md)
 - **2026-11-17 · OpenAI** — [Introducing GPT-6.2 Astra and Sol](articles/2026-11/8f6af8c44a4a1bfb5de31585.md)
 - **2026-11-17 · NVIDIA** — [Co-Designing Sparse Attention for Efficient Long-Context Inference](articles/2026-11/ef0668bcb4a436fa3ea78ed7.md)
 - **2026-11-17 · OpenAI** — [Astra for Law leads in legal intelligence](articles/2026-11/b43ef08ac3ed4f7af6f4fa4f.md)
@@ -37,7 +38,6 @@ Each entry links to the original publisher, keeps its publication date, includes
 - **2026-11-11 · Google Developers** — [A2UI 1.0: Build delightful, fast, reliable, agentic experiences](articles/2026-11/740de2548ad8f4689ad7f676.md)
 - **2026-11-11 · OpenAI** — [JioStar’s chief architect on AI discovery at 500M-user scale](articles/2026-11/55ff14dc4213127df72a8039.md)
 - **2026-11-10 · n8n** — [Build Safer n8n Agents and Workflows with Google Gemini 4 Carbon](articles/2026-11/26a090d137e1aeb75b70910d.md)
-- **2026-11-10 · NVIDIA** — [Agent Substrate: Advancing Kubernetes for Agents at Scale](articles/2026-11/a8c416e2c7748124802b5f5d.md)
 
 <!-- articles:end -->
 

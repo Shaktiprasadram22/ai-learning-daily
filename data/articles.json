@@ -864,5 +864,20 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-11/e55c8f2df06c07ffc92b5ea2.md",
     "automated": true
+  },
+  {
+    "id": "e0a5680da648bf1e9f0c1f68",
+    "title": "Build Training-Ready Physical AI Datasets with Two Prompts in NVIDIA Cosmos",
+    "url": "https://developer.nvidia.com/blog/build-training-ready-physical-ai-datasets-with-two-prompts-in-nvidia-cosmos",
+    "source": "NVIDIA",
+    "published_at": "2026-11-18T17:00:00Z",
+    "added_at": "2026-11-19T04:31:17Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "World model accuracy starts with high-quality, diverse training datasets. Yet capturing rare defects, nighttime incidents, and other challenging scenarios is...",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/e0a5680da648bf1e9f0c1f68.md",
+    "automated": true
   }
 ]
