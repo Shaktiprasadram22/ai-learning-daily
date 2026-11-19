@@ -895,5 +895,20 @@
     "practice": "Benchmark this technique on the same prompts; compare first-token and total response time.",
     "path": "articles/2026-11/58da586369f33999eb920dc2.md",
     "automated": true
+  },
+  {
+    "id": "99be0c0a7e074380d1a5d6cd",
+    "title": "Managing frontier AI risk: From training to deployment",
+    "url": "https://openai.com/index/managing-frontier-ai-risk",
+    "source": "OpenAI",
+    "published_at": "2026-11-18T06:00:00Z",
+    "added_at": "2026-11-19T04:31:17Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/99be0c0a7e074380d1a5d6cd.md",
+    "automated": true
   }
 ]

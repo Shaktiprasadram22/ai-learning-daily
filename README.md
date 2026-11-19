@@ -6,11 +6,12 @@ Each entry links to the original publisher, keeps its publication date, includes
 
 <!-- articles:start -->
 
-**59 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
+**60 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
 
 - **2026-11-18 · Hugging Face** — [Why your fine-tuning job takes longer than the FLOPs say](articles/2026-11/e55c8f2df06c07ffc92b5ea2.md)
 - **2026-11-18 · NVIDIA** — [Build Training-Ready Physical AI Datasets with Two Prompts in NVIDIA Cosmos](articles/2026-11/e0a5680da648bf1e9f0c1f68.md)
 - **2026-11-18 · OpenAI** — [Research acceleration: The jagged frontier](articles/2026-11/58da586369f33999eb920dc2.md)
+- **2026-11-18 · OpenAI** — [Managing frontier AI risk: From training to deployment](articles/2026-11/99be0c0a7e074380d1a5d6cd.md)
 - **2026-11-17 · OpenAI** — [Introducing GPT-6.2 Astra and Sol](articles/2026-11/8f6af8c44a4a1bfb5de31585.md)
 - **2026-11-17 · NVIDIA** — [Co-Designing Sparse Attention for Efficient Long-Context Inference](articles/2026-11/ef0668bcb4a436fa3ea78ed7.md)
 - **2026-11-17 · OpenAI** — [Astra for Law leads in legal intelligence](articles/2026-11/b43ef08ac3ed4f7af6f4fa4f.md)
@@ -37,7 +38,6 @@ Each entry links to the original publisher, keeps its publication date, includes
 - **2026-11-11 · NVIDIA** — [Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory](articles/2026-11/4b30bf9e8a4d0303bec665cd.md)
 - **2026-11-11 · Hugging Face** — [BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model](articles/2026-11/19b4fcb1faac9c9bdbccd358.md)
 - **2026-11-11 · Google Developers** — [A2UI 1.0: Build delightful, fast, reliable, agentic experiences](articles/2026-11/740de2548ad8f4689ad7f676.md)
-- **2026-11-11 · OpenAI** — [JioStar’s chief architect on AI discovery at 500M-user scale](articles/2026-11/55ff14dc4213127df72a8039.md)
 
 <!-- articles:end -->
 
