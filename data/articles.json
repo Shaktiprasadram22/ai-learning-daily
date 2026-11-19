@@ -910,5 +910,20 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-11/99be0c0a7e074380d1a5d6cd.md",
     "automated": true
+  },
+  {
+    "id": "ec56b5eff9affb1c339e466c",
+    "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+    "url": "https://huggingface.co/blog/moe-expert-streaming",
+    "source": "Hugging Face",
+    "published_at": "2026-11-18T00:00:00Z",
+    "added_at": "2026-11-19T04:31:17Z",
+    "topics": [
+      "latency"
+    ],
+    "excerpt": "",
+    "practice": "Benchmark this technique on the same prompts; compare first-token and total response time.",
+    "path": "articles/2026-11/ec56b5eff9affb1c339e466c.md",
+    "automated": true
   }
 ]
