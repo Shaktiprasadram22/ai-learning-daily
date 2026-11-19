@@ -879,5 +879,21 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-11/e0a5680da648bf1e9f0c1f68.md",
     "automated": true
+  },
+  {
+    "id": "58da586369f33999eb920dc2",
+    "title": "Research acceleration: The jagged frontier",
+    "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+    "source": "OpenAI",
+    "published_at": "2026-11-18T08:00:00Z",
+    "added_at": "2026-11-19T04:31:17Z",
+    "topics": [
+      "build",
+      "latency"
+    ],
+    "excerpt": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+    "practice": "Benchmark this technique on the same prompts; compare first-token and total response time.",
+    "path": "articles/2026-11/58da586369f33999eb920dc2.md",
+    "automated": true
   }
 ]
