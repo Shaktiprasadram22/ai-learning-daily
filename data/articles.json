@@ -849,5 +849,20 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-11/3d0957b329c2f381935ad1f1.md",
     "automated": true
+  },
+  {
+    "id": "e55c8f2df06c07ffc92b5ea2",
+    "title": "Why your fine-tuning job takes longer than the FLOPs say",
+    "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+    "source": "Hugging Face",
+    "published_at": "2026-11-18T18:53:43Z",
+    "added_at": "2026-11-19T04:31:17Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/e55c8f2df06c07ffc92b5ea2.md",
+    "automated": true
   }
 ]
