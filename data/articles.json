@@ -970,5 +970,20 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-11/2d01b6350c2d3fb2cb0f094e.md",
     "automated": true
+  },
+  {
+    "id": "e6f9d601449ae6856b74bcb7",
+    "title": "Multi-Turn Agentic Reinforcement Learning with Tunix and Gemma 4 on Google TPUs",
+    "url": "https://developers.googleblog.com/multi-turn-agentic-reinforcement-learning-with-tunix-and-gemma-4-on-google-tpus",
+    "source": "Google Developers",
+    "published_at": "2026-11-19T00:00:00Z",
+    "added_at": "2026-11-20T04:31:07Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "This post walks developers through training a multi-turn, tool-using LLM agent using Tunix and Gemma 4 on Cloud TPUs. By leveraging agentic Group Relative Policy …",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/e6f9d601449ae6856b74bcb7.md",
+    "automated": true
   }
 ]
