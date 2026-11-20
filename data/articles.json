@@ -925,5 +925,20 @@
     "practice": "Benchmark this technique on the same prompts; compare first-token and total response time.",
     "path": "articles/2026-11/ec56b5eff9affb1c339e466c.md",
     "automated": true
+  },
+  {
+    "id": "fdf247289ced7fca8c814c4b",
+    "title": "Reducing Rollout Bottlenecks in Reinforcement Learning with NVIDIA Dynamo",
+    "url": "https://developer.nvidia.com/blog/reducing-rollout-bottlenecks-in-reinforcement-learning-with-nvidia-dynamo",
+    "source": "NVIDIA",
+    "published_at": "2026-11-19T20:28:13Z",
+    "added_at": "2026-11-20T04:31:07Z",
+    "topics": [
+      "latency"
+    ],
+    "excerpt": "Reinforcement learning (RL) uses rewards to train models to solve problems and complete tasks more successfully. Inference drives this process. Workers generate...",
+    "practice": "Benchmark this technique on the same prompts; compare first-token and total response time.",
+    "path": "articles/2026-11/fdf247289ced7fca8c814c4b.md",
+    "automated": true
   }
 ]

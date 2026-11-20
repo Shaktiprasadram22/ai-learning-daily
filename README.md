@@ -6,8 +6,9 @@ Each entry links to the original publisher, keeps its publication date, includes
 
 <!-- articles:start -->
 
-**61 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
+**62 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
 
+- **2026-11-19 · NVIDIA** — [Reducing Rollout Bottlenecks in Reinforcement Learning with NVIDIA Dynamo](articles/2026-11/fdf247289ced7fca8c814c4b.md)
 - **2026-11-18 · Hugging Face** — [Why your fine-tuning job takes longer than the FLOPs say](articles/2026-11/e55c8f2df06c07ffc92b5ea2.md)
 - **2026-11-18 · NVIDIA** — [Build Training-Ready Physical AI Datasets with Two Prompts in NVIDIA Cosmos](articles/2026-11/e0a5680da648bf1e9f0c1f68.md)
 - **2026-11-18 · OpenAI** — [Research acceleration: The jagged frontier](articles/2026-11/58da586369f33999eb920dc2.md)
@@ -37,7 +38,6 @@ Each entry links to the original publisher, keeps its publication date, includes
 - **2026-11-12 · Google Developers** — [How Agent Anomaly Detection scores on benchmarks we didn't write](articles/2026-11/d99b7127f7fd99e6149610b8.md)
 - **2026-11-12 · Hugging Face** — [The Definitive Fine-Tuning Guide for 3D Generation Models](articles/2026-11/cbda9238a3684b28e47a3f03.md)
 - **2026-11-11 · NVIDIA** — [Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory](articles/2026-11/4b30bf9e8a4d0303bec665cd.md)
-- **2026-11-11 · Hugging Face** — [BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model](articles/2026-11/19b4fcb1faac9c9bdbccd358.md)
 
 <!-- articles:end -->
 
