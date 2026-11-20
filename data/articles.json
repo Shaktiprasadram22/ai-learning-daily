@@ -985,5 +985,22 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-11/e6f9d601449ae6856b74bcb7.md",
     "automated": true
+  },
+  {
+    "id": "ddc3aaf2a01e995425ca8f4d",
+    "title": "Distributed LLM Training Across Metros: Streaming DiLoCo in MaxText",
+    "url": "https://developers.googleblog.com/distributed-llm-training-across-metros-streaming-diloco-in-maxtext",
+    "source": "Google Developers",
+    "published_at": "2026-11-19T00:00:00Z",
+    "added_at": "2026-11-20T04:31:07Z",
+    "topics": [
+      "build",
+      "cost",
+      "latency"
+    ],
+    "excerpt": "Streaming DiLoCo in MaxText enables developers to efficiently train large language models across geographically distributed TPU slices by streaming parameter fragments instead of synchronizing full …",
+    "practice": "Benchmark this technique on the same prompts; compare first-token and total response time.",
+    "path": "articles/2026-11/ddc3aaf2a01e995425ca8f4d.md",
+    "automated": true
   }
 ]

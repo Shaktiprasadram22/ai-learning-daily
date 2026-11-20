@@ -6,12 +6,13 @@ Each entry links to the original publisher, keeps its publication date, includes
 
 <!-- articles:start -->
 
-**65 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
+**66 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
 
 - **2026-11-19 · NVIDIA** — [Reducing Rollout Bottlenecks in Reinforcement Learning with NVIDIA Dynamo](articles/2026-11/fdf247289ced7fca8c814c4b.md)
 - **2026-11-19 · Google AI** — [Introducing Tool Retrieval in the Gemini API](articles/2026-11/056cf0b58a3dbace68332c5e.md)
 - **2026-11-19 · NVIDIA** — [Build Tool-Calling Parsers in Rust with AI Agents](articles/2026-11/2d01b6350c2d3fb2cb0f094e.md)
 - **2026-11-19 · Google Developers** — [Multi-Turn Agentic Reinforcement Learning with Tunix and Gemma 4 on Google TPUs](articles/2026-11/e6f9d601449ae6856b74bcb7.md)
+- **2026-11-19 · Google Developers** — [Distributed LLM Training Across Metros: Streaming DiLoCo in MaxText](articles/2026-11/ddc3aaf2a01e995425ca8f4d.md)
 - **2026-11-18 · Hugging Face** — [Why your fine-tuning job takes longer than the FLOPs say](articles/2026-11/e55c8f2df06c07ffc92b5ea2.md)
 - **2026-11-18 · NVIDIA** — [Build Training-Ready Physical AI Datasets with Two Prompts in NVIDIA Cosmos](articles/2026-11/e0a5680da648bf1e9f0c1f68.md)
 - **2026-11-18 · OpenAI** — [Research acceleration: The jagged frontier](articles/2026-11/58da586369f33999eb920dc2.md)
@@ -37,7 +38,6 @@ Each entry links to the original publisher, keeps its publication date, includes
 - **2026-11-13 · OpenAI** — [Introducing ChatGPT Wallet](articles/2026-11/7d4d71d056da02862d0b2ec1.md)
 - **2026-11-13 · OpenAI** — [Shield helps technicians hand off legacy portal work with OpenAI](articles/2026-11/a99dfdd20d85acbbb850aa77.md)
 - **2026-11-13 · Anthropic / Claude** — [Building strong safety evaluations](articles/2026-11/43af641572cb998c4f69a130.md)
-- **2026-11-12 · OpenAI** — [How Amplitude ships product improvements in 1–2 days with OpenAI](articles/2026-11/67672a694e389b29af5588bf.md)
 
 <!-- articles:end -->
 
