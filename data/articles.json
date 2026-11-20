@@ -940,5 +940,20 @@
     "practice": "Benchmark this technique on the same prompts; compare first-token and total response time.",
     "path": "articles/2026-11/fdf247289ced7fca8c814c4b.md",
     "automated": true
+  },
+  {
+    "id": "056cf0b58a3dbace68332c5e",
+    "title": "Introducing Tool Retrieval in the Gemini API",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
+    "source": "Google AI",
+    "published_at": "2026-11-19T18:00:00Z",
+    "added_at": "2026-11-20T04:31:07Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/056cf0b58a3dbace68332c5e.md",
+    "automated": true
   }
 ]
