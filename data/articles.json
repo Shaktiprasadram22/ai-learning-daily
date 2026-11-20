@@ -955,5 +955,20 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-11/056cf0b58a3dbace68332c5e.md",
     "automated": true
+  },
+  {
+    "id": "2d01b6350c2d3fb2cb0f094e",
+    "title": "Build Tool-Calling Parsers in Rust with AI Agents",
+    "url": "https://developer.nvidia.com/blog/build-tool-calling-parsers-in-rust-with-ai-agents",
+    "source": "NVIDIA",
+    "published_at": "2026-11-19T16:30:46Z",
+    "added_at": "2026-11-20T04:31:07Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "A tool call can arrive in pieces, an argument can be cut short, or model-specific markup can leak into the answer. A frontend parser turns …",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/2d01b6350c2d3fb2cb0f094e.md",
+    "automated": true
   }
 ]
