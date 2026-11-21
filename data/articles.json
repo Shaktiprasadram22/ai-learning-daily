@@ -1002,5 +1002,21 @@
     "practice": "Benchmark this technique on the same prompts; compare first-token and total response time.",
     "path": "articles/2026-11/ddc3aaf2a01e995425ca8f4d.md",
     "automated": true
+  },
+  {
+    "id": "7ad44f990f0c53ef2e2a5377",
+    "title": "Combatting adversarial distillation",
+    "url": "https://openai.com/index/combatting-adversarial-distillation",
+    "source": "OpenAI",
+    "published_at": "2026-11-20T10:00:00Z",
+    "added_at": "2026-11-21T04:31:09Z",
+    "topics": [
+      "build",
+      "cost"
+    ],
+    "excerpt": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+    "practice": "Compare a smaller or quantized model on your evaluation prompts; record quality, memory, and cost.",
+    "path": "articles/2026-11/7ad44f990f0c53ef2e2a5377.md",
+    "automated": true
   }
 ]
