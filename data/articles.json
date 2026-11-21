@@ -1018,5 +1018,20 @@
     "practice": "Compare a smaller or quantized model on your evaluation prompts; record quality, memory, and cost.",
     "path": "articles/2026-11/7ad44f990f0c53ef2e2a5377.md",
     "automated": true
+  },
+  {
+    "id": "c1a2af93db54bfcf7c217cb7",
+    "title": "Can AI help scientists identify promising drug candidates?",
+    "url": "https://openai.com/index/introducing-medchembench",
+    "source": "OpenAI",
+    "published_at": "2026-11-20T00:00:00Z",
+    "added_at": "2026-11-21T04:31:09Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/c1a2af93db54bfcf7c217cb7.md",
+    "automated": true
   }
 ]
