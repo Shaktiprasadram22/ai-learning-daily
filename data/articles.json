@@ -1078,5 +1078,20 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-11/1dcdfb995f83a35a1a02115c.md",
     "automated": true
+  },
+  {
+    "id": "18462794d5c944865ca3c5f0",
+    "title": "Agent Anomaly Detection: Safeguarding agents across other clouds",
+    "url": "https://developers.googleblog.com/agent-anomaly-detection-safeguarding-agents-across-other-clouds",
+    "source": "Google Developers",
+    "published_at": "2026-11-20T00:00:00Z",
+    "added_at": "2026-11-21T04:31:09Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "Agent Anomaly Detection now monitors ADK agents running across AWS, Azure, or on-premises by analyzing their traces and logs in your Google Cloud project. By …",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/18462794d5c944865ca3c5f0.md",
+    "automated": true
   }
 ]
