@@ -1048,5 +1048,20 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-11/bc55ae1ae5897f87c15f207c.md",
     "automated": true
+  },
+  {
+    "id": "8145fefb47ff1ca9fa5560e6",
+    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+    "url": "https://openai.com/business/customer-stories/hebbia",
+    "source": "OpenAI",
+    "published_at": "2026-11-20T00:00:00Z",
+    "added_at": "2026-11-21T04:31:09Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/8145fefb47ff1ca9fa5560e6.md",
+    "automated": true
   }
 ]
