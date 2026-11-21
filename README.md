@@ -6,10 +6,11 @@ Each entry links to the original publisher, keeps its publication date, includes
 
 <!-- articles:start -->
 
-**68 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
+**69 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
 
 - **2026-11-20 · OpenAI** — [Combatting adversarial distillation](articles/2026-11/7ad44f990f0c53ef2e2a5377.md)
 - **2026-11-20 · OpenAI** — [Can AI help scientists identify promising drug candidates?](articles/2026-11/c1a2af93db54bfcf7c217cb7.md)
+- **2026-11-20 · Google Developers** — [How to securely connect internal Cloud Run MCP servers to Gemini Enterprise](articles/2026-11/bc55ae1ae5897f87c15f207c.md)
 - **2026-11-19 · NVIDIA** — [Reducing Rollout Bottlenecks in Reinforcement Learning with NVIDIA Dynamo](articles/2026-11/fdf247289ced7fca8c814c4b.md)
 - **2026-11-19 · Google AI** — [Introducing Tool Retrieval in the Gemini API](articles/2026-11/056cf0b58a3dbace68332c5e.md)
 - **2026-11-19 · NVIDIA** — [Build Tool-Calling Parsers in Rust with AI Agents](articles/2026-11/2d01b6350c2d3fb2cb0f094e.md)
@@ -37,7 +38,6 @@ Each entry links to the original publisher, keeps its publication date, includes
 - **2026-11-16 · Google Developers** — [Unlocking Stable On-Policy RL on TPU with Bitwise-Zero Train–Inference Mismatch](articles/2026-11/3a916bbc0068beb6ab87c7e6.md)
 - **2026-11-13 · Cloudflare** — [Kitesurf is now open source](articles/2026-11/a443b3b05538516102c1262d.md)
 - **2026-11-13 · NVIDIA** — [Run Native DLA Inference in Python on NVIDIA Jetson AGX Orin Using cuDLA](articles/2026-11/b46b6bb43e745acd7c60d611.md)
-- **2026-11-13 · OpenAI** — [Introducing ChatGPT Wallet](articles/2026-11/7d4d71d056da02862d0b2ec1.md)
 
 <!-- articles:end -->
 

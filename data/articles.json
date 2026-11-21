@@ -1033,5 +1033,20 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-11/c1a2af93db54bfcf7c217cb7.md",
     "automated": true
+  },
+  {
+    "id": "bc55ae1ae5897f87c15f207c",
+    "title": "How to securely connect internal Cloud Run MCP servers to Gemini Enterprise",
+    "url": "https://developers.googleblog.com/how-to-securely-connect-internal-cloud-run-mcp-servers-to-gemini-enterprise",
+    "source": "Google Developers",
+    "published_at": "2026-11-20T00:00:00Z",
+    "added_at": "2026-11-21T04:31:09Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "How to connect Gemini Enterprise privately to internal StreamableHTTP MCP servers on Cloud Run using Egress Agent Gateway, Private Service Connect, FQDN-scoped Private Cloud DNS, …",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/bc55ae1ae5897f87c15f207c.md",
+    "automated": true
   }
 ]
