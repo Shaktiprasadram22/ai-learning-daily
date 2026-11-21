@@ -1063,5 +1063,20 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-11/8145fefb47ff1ca9fa5560e6.md",
     "automated": true
+  },
+  {
+    "id": "1dcdfb995f83a35a1a02115c",
+    "title": "How to handle user, connector, and agent auth in Gemini Enterprise with a custom UI",
+    "url": "https://developers.googleblog.com/how-to-handle-user-connector-and-agent-auth-in-gemini-enterprise-with-a-custom-ui",
+    "source": "Google Developers",
+    "published_at": "2026-11-20T00:00:00Z",
+    "added_at": "2026-11-21T04:31:09Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "When building a custom enterprise UI on top of Gemini Enterprise's :streamAssist API, developers must manually implement three core authentication layers. These include authenticating users …",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/1dcdfb995f83a35a1a02115c.md",
+    "automated": true
   }
 ]
