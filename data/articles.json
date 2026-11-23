@@ -1093,5 +1093,20 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-11/18462794d5c944865ca3c5f0.md",
     "automated": true
+  },
+  {
+    "id": "1a10f1676d46fc01a909d8ea",
+    "title": "Perplexity and Intelligence",
+    "url": "https://openai.com/index/perplexity-and-intelligence",
+    "source": "OpenAI",
+    "published_at": "2026-11-22T00:00:00Z",
+    "added_at": "2026-11-23T04:31:09Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/1a10f1676d46fc01a909d8ea.md",
+    "automated": true
   }
 ]
