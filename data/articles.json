@@ -1138,5 +1138,20 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-11/d0ed4d1f645598f142c1c13a.md",
     "automated": true
+  },
+  {
+    "id": "00d52199bef25f9eda98fa79",
+    "title": "How to build and maintain an agentic evaluation",
+    "url": "https://huggingface.co/blog/agentic-evals",
+    "source": "Hugging Face",
+    "published_at": "2026-11-23T00:00:00Z",
+    "added_at": "2026-11-24T04:31:10Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/00d52199bef25f9eda98fa79.md",
+    "automated": true
   }
 ]
