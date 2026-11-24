@@ -1123,5 +1123,20 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-11/1259b534687dd8b3171199ff.md",
     "automated": true
+  },
+  {
+    "id": "d0ed4d1f645598f142c1c13a",
+    "title": "Did the user ask for this? Securing AI agents against intent hijacking with Semantic governance policies",
+    "url": "https://developers.googleblog.com/did-the-user-ask-for-this-securing-ai-agents-against-intent-hijacking-with-semantic-governance-policies",
+    "source": "Google Developers",
+    "published_at": "2026-11-23T00:00:00Z",
+    "added_at": "2026-11-24T04:31:10Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "Semantic governance policies protect AI agents from indirect prompt injection and intent hijacking by validating every proposed tool call against user intent and natural language …",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/d0ed4d1f645598f142c1c13a.md",
+    "automated": true
   }
 ]
