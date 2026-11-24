@@ -6,8 +6,9 @@ Each entry links to the original publisher, keeps its publication date, includes
 
 <!-- articles:start -->
 
-**73 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
+**74 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
 
+- **2026-11-23 · OpenAI** — [Richpanel helps companies automate 50% of support in 30 days](articles/2026-11/1259b534687dd8b3171199ff.md)
 - **2026-11-22 · OpenAI** — [Perplexity and Intelligence](articles/2026-11/1a10f1676d46fc01a909d8ea.md)
 - **2026-11-20 · OpenAI** — [Combatting adversarial distillation](articles/2026-11/7ad44f990f0c53ef2e2a5377.md)
 - **2026-11-20 · OpenAI** — [Can AI help scientists identify promising drug candidates?](articles/2026-11/c1a2af93db54bfcf7c217cb7.md)
@@ -37,7 +38,6 @@ Each entry links to the original publisher, keeps its publication date, includes
 - **2026-11-16 · OpenAI** — [Our first phase of embedded assessments](articles/2026-11/9fe6d2ae73e55f52b8078f18.md)
 - **2026-11-16 · OpenAI** — [More ways to move care forward with ChatGPT for Healthcare](articles/2026-11/21e886491b30cfff0403f0b9.md)
 - **2026-11-16 · OpenAI** — [Advancing computer-use agents for healthcare teams](articles/2026-11/21b4758ab52123ac78ffa3db.md)
-- **2026-11-16 · Google Developers** — [Agents are sessions, not requests: size GKE node pools for AI agent sessions](articles/2026-11/d4dd27aa4150d5d5e7ff227e.md)
 
 <!-- articles:end -->
 

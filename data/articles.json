@@ -1108,5 +1108,20 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-11/1a10f1676d46fc01a909d8ea.md",
     "automated": true
+  },
+  {
+    "id": "1259b534687dd8b3171199ff",
+    "title": "Richpanel helps companies automate 50% of support in 30 days",
+    "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+    "source": "OpenAI",
+    "published_at": "2026-11-23T08:00:00Z",
+    "added_at": "2026-11-24T04:31:10Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/1259b534687dd8b3171199ff.md",
+    "automated": true
   }
 ]
