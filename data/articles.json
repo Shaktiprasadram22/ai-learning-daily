@@ -1153,5 +1153,20 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-11/00d52199bef25f9eda98fa79.md",
     "automated": true
+  },
+  {
+    "id": "99c35c1258d2ddc6e299fee8",
+    "title": "Production AI Playbook: Audit & trace for AI agents",
+    "url": "https://blog.n8n.io/production-ai-playbook-audit-trace-for-ai-agents",
+    "source": "n8n",
+    "published_at": "2026-11-24T14:30:29Z",
+    "added_at": "2026-11-25T04:31:08Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "Reconstruct an AI decision, and retain the records needed to explain it later. Five hands-on n8n exercises: reading saved executions, tagging decisions for search, tracing …",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/99c35c1258d2ddc6e299fee8.md",
+    "automated": true
   }
 ]
