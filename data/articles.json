@@ -1198,5 +1198,20 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-11/a3c9028eefd69cfd15ff27f4.md",
     "automated": true
+  },
+  {
+    "id": "89a905d5eae9fa3ef5a8af6c",
+    "title": "How iFood scales coding agents across 15,000 repositories",
+    "url": "https://openai.com/business/customer-stories/ifood",
+    "source": "OpenAI",
+    "published_at": "2026-11-24T00:00:00Z",
+    "added_at": "2026-11-25T04:31:08Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/89a905d5eae9fa3ef5a8af6c.md",
+    "automated": true
   }
 ]
