@@ -6,9 +6,10 @@ Each entry links to the original publisher, keeps its publication date, includes
 
 <!-- articles:start -->
 
-**77 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
+**78 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
 
 - **2026-11-24 · n8n** — [Production AI Playbook: Audit &amp; trace for AI agents](articles/2026-11/99c35c1258d2ddc6e299fee8.md)
+- **2026-11-24 · OpenAI** — [GPT-6 models demonstrate intrinsic protein-design capabilities](articles/2026-11/ac2f786b30f6d45772c42167.md)
 - **2026-11-23 · OpenAI** — [Richpanel helps companies automate 50% of support in 30 days](articles/2026-11/1259b534687dd8b3171199ff.md)
 - **2026-11-23 · Google Developers** — [Did the user ask for this? Securing AI agents against intent hijacking with Semantic governance policies](articles/2026-11/d0ed4d1f645598f142c1c13a.md)
 - **2026-11-23 · Hugging Face** — [How to build and maintain an agentic evaluation](articles/2026-11/00d52199bef25f9eda98fa79.md)
@@ -37,7 +38,6 @@ Each entry links to the original publisher, keeps its publication date, includes
 - **2026-11-16 · NVIDIA** — [Post-Training NVIDIA Nemotron to Increase Accuracy in Your Scientific Domain](articles/2026-11/e5e272e7744c80be5ffb799c.md)
 - **2026-11-16 · NVIDIA** — [NVIDIA Vera Rubin NVL72 Leads Agentic Inference Performance on MLPerf Endpoints v1.0](articles/2026-11/bd4930e0839976d3ed7ae4ae.md)
 - **2026-11-16 · NVIDIA** — [NVIDIA Vera Rubin NVL72 Achieves up to 2x Blackwell Ultra Performance in MLPerf Training v6.1](articles/2026-11/7ec90737528b7237217e7205.md)
-- **2026-11-16 · n8n** — [AI made integrations the vendor’s problem](articles/2026-11/3f55c7d30161021585230a4b.md)
 
 <!-- articles:end -->
 
