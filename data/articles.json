@@ -1183,5 +1183,20 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-11/ac2f786b30f6d45772c42167.md",
     "automated": true
+  },
+  {
+    "id": "a3c9028eefd69cfd15ff27f4",
+    "title": "Clay helps sales teams win with Codex and ChatGPT",
+    "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+    "source": "OpenAI",
+    "published_at": "2026-11-24T00:00:00Z",
+    "added_at": "2026-11-25T04:31:08Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/a3c9028eefd69cfd15ff27f4.md",
+    "automated": true
   }
 ]
