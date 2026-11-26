@@ -1243,5 +1243,20 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-11/88bd06d7e0e9b82f43a3c7b4.md",
     "automated": true
+  },
+  {
+    "id": "5b91da256f36ad75ae2cc88f",
+    "title": "Verifiable Social Reasoning for LLM Assistants",
+    "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants",
+    "source": "Google Research",
+    "published_at": "2026-11-25T17:10:27Z",
+    "added_at": "2026-11-26T04:31:09Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "Generative AI",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/5b91da256f36ad75ae2cc88f.md",
+    "automated": true
   }
 ]
