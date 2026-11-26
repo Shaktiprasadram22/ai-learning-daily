@@ -6,8 +6,9 @@ Each entry links to the original publisher, keeps its publication date, includes
 
 <!-- articles:start -->
 
-**80 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
+**81 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
 
+- **2026-11-25 · NVIDIA** — [How to Optimize NVFP4 Attention on NVIDIA RTX Blackwell Through Register Recycling](articles/2026-11/f09aeb2897d181487b1d95ea.md)
 - **2026-11-24 · n8n** — [Production AI Playbook: Audit &amp; trace for AI agents](articles/2026-11/99c35c1258d2ddc6e299fee8.md)
 - **2026-11-24 · OpenAI** — [GPT-6 models demonstrate intrinsic protein-design capabilities](articles/2026-11/ac2f786b30f6d45772c42167.md)
 - **2026-11-24 · OpenAI** — [Clay helps sales teams win with Codex and ChatGPT](articles/2026-11/a3c9028eefd69cfd15ff27f4.md)
@@ -37,7 +38,6 @@ Each entry links to the original publisher, keeps its publication date, includes
 - **2026-11-17 · OpenAI** — [Astra for Law leads in legal intelligence](articles/2026-11/b43ef08ac3ed4f7af6f4fa4f.md)
 - **2026-11-17 · Google Developers** — [Gemini 4 Hydrogen: a faster model for general purpose robotics](articles/2026-11/7c3a077a80825638365ff213.md)
 - **2026-11-17 · Google Developers** — [Build full-stack Android apps with Gemini in Google AI Studio](articles/2026-11/3d0957b329c2f381935ad1f1.md)
-- **2026-11-16 · NVIDIA** — [Post-Training NVIDIA Nemotron to Increase Accuracy in Your Scientific Domain](articles/2026-11/e5e272e7744c80be5ffb799c.md)
 
 <!-- articles:end -->
 
