@@ -6,11 +6,12 @@ Each entry links to the original publisher, keeps its publication date, includes
 
 <!-- articles:start -->
 
-**83 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
+**84 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
 
 - **2026-11-25 · NVIDIA** — [How to Optimize NVFP4 Attention on NVIDIA RTX Blackwell Through Register Recycling](articles/2026-11/f09aeb2897d181487b1d95ea.md)
 - **2026-11-25 · Hugging Face** — [Where scientists draw the line on AI agents](articles/2026-11/88bd06d7e0e9b82f43a3c7b4.md)
 - **2026-11-25 · Google Research** — [Verifiable Social Reasoning for LLM Assistants](articles/2026-11/5b91da256f36ad75ae2cc88f.md)
+- **2026-11-25 · Cloudflare** — [Introducing Search for Agents](articles/2026-11/48919c55052d9c9281a8daf6.md)
 - **2026-11-24 · n8n** — [Production AI Playbook: Audit &amp; trace for AI agents](articles/2026-11/99c35c1258d2ddc6e299fee8.md)
 - **2026-11-24 · OpenAI** — [GPT-6 models demonstrate intrinsic protein-design capabilities](articles/2026-11/ac2f786b30f6d45772c42167.md)
 - **2026-11-24 · OpenAI** — [Clay helps sales teams win with Codex and ChatGPT](articles/2026-11/a3c9028eefd69cfd15ff27f4.md)
@@ -37,7 +38,6 @@ Each entry links to the original publisher, keeps its publication date, includes
 - **2026-11-18 · Hugging Face** — [180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers](articles/2026-11/ec56b5eff9affb1c339e466c.md)
 - **2026-11-17 · OpenAI** — [Introducing GPT-6.2 Astra and Sol](articles/2026-11/8f6af8c44a4a1bfb5de31585.md)
 - **2026-11-17 · NVIDIA** — [Co-Designing Sparse Attention for Efficient Long-Context Inference](articles/2026-11/ef0668bcb4a436fa3ea78ed7.md)
-- **2026-11-17 · OpenAI** — [Astra for Law leads in legal intelligence](articles/2026-11/b43ef08ac3ed4f7af6f4fa4f.md)
 
 <!-- articles:end -->
 

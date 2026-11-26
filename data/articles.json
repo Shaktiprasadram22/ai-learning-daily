@@ -1258,5 +1258,20 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-11/5b91da256f36ad75ae2cc88f.md",
     "automated": true
+  },
+  {
+    "id": "48919c55052d9c9281a8daf6",
+    "title": "Introducing Search for Agents",
+    "url": "https://blog.cloudflare.com/search-for-agents",
+    "source": "Cloudflare",
+    "published_at": "2026-11-25T14:00:00Z",
+    "added_at": "2026-11-26T04:31:09Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "Flip one toggle to make your site searchable by AI agents — complete with automatic content indexing, a discoverable search API, and native HTTP QUERY …",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/48919c55052d9c9281a8daf6.md",
+    "automated": true
   }
 ]
