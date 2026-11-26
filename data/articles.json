@@ -1273,5 +1273,20 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-11/48919c55052d9c9281a8daf6.md",
     "automated": true
+  },
+  {
+    "id": "0077e07924e43bf73f6b214e",
+    "title": "An Indic Voice Agent with CUGA",
+    "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+    "source": "Hugging Face",
+    "published_at": "2026-11-25T10:22:09Z",
+    "added_at": "2026-11-26T04:31:09Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/0077e07924e43bf73f6b214e.md",
+    "automated": true
   }
 ]
