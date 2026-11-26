@@ -1228,5 +1228,20 @@
     "practice": "Benchmark this technique on the same prompts; compare first-token and total response time.",
     "path": "articles/2026-11/f09aeb2897d181487b1d95ea.md",
     "automated": true
+  },
+  {
+    "id": "88bd06d7e0e9b82f43a3c7b4",
+    "title": "Where scientists draw the line on AI agents",
+    "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+    "source": "Hugging Face",
+    "published_at": "2026-11-25T18:52:55Z",
+    "added_at": "2026-11-26T04:31:09Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/88bd06d7e0e9b82f43a3c7b4.md",
+    "automated": true
   }
 ]
