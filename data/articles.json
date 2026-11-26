@@ -1288,5 +1288,20 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-11/0077e07924e43bf73f6b214e.md",
     "automated": true
+  },
+  {
+    "id": "df3be113c8aed13fbadf7f5f",
+    "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+    "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+    "source": "Hugging Face",
+    "published_at": "2026-11-25T00:00:00Z",
+    "added_at": "2026-11-26T04:31:09Z",
+    "topics": [
+      "latency"
+    ],
+    "excerpt": "",
+    "practice": "Benchmark this technique on the same prompts; compare first-token and total response time.",
+    "path": "articles/2026-11/df3be113c8aed13fbadf7f5f.md",
+    "automated": true
   }
 ]
