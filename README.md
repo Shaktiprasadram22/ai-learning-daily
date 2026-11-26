@@ -6,7 +6,7 @@ Each entry links to the original publisher, keeps its publication date, includes
 
 <!-- articles:start -->
 
-**86 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
+**87 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
 
 - **2026-11-25 · NVIDIA** — [How to Optimize NVFP4 Attention on NVIDIA RTX Blackwell Through Register Recycling](articles/2026-11/f09aeb2897d181487b1d95ea.md)
 - **2026-11-25 · Hugging Face** — [Where scientists draw the line on AI agents](articles/2026-11/88bd06d7e0e9b82f43a3c7b4.md)
@@ -14,6 +14,7 @@ Each entry links to the original publisher, keeps its publication date, includes
 - **2026-11-25 · Cloudflare** — [Introducing Search for Agents](articles/2026-11/48919c55052d9c9281a8daf6.md)
 - **2026-11-25 · Hugging Face** — [An Indic Voice Agent with CUGA](articles/2026-11/0077e07924e43bf73f6b214e.md)
 - **2026-11-25 · Hugging Face** — [Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000](articles/2026-11/df3be113c8aed13fbadf7f5f.md)
+- **2026-11-25 · Anthropic / Claude** — [Migrating our Messages API to Rust](articles/2026-11/de4847a7cbcabb96041b9338.md)
 - **2026-11-24 · n8n** — [Production AI Playbook: Audit &amp; trace for AI agents](articles/2026-11/99c35c1258d2ddc6e299fee8.md)
 - **2026-11-24 · OpenAI** — [GPT-6 models demonstrate intrinsic protein-design capabilities](articles/2026-11/ac2f786b30f6d45772c42167.md)
 - **2026-11-24 · OpenAI** — [Clay helps sales teams win with Codex and ChatGPT](articles/2026-11/a3c9028eefd69cfd15ff27f4.md)
@@ -37,7 +38,6 @@ Each entry links to the original publisher, keeps its publication date, includes
 - **2026-11-18 · NVIDIA** — [Build Training-Ready Physical AI Datasets with Two Prompts in NVIDIA Cosmos](articles/2026-11/e0a5680da648bf1e9f0c1f68.md)
 - **2026-11-18 · OpenAI** — [Research acceleration: The jagged frontier](articles/2026-11/58da586369f33999eb920dc2.md)
 - **2026-11-18 · OpenAI** — [Managing frontier AI risk: From training to deployment](articles/2026-11/99be0c0a7e074380d1a5d6cd.md)
-- **2026-11-18 · Hugging Face** — [180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers](articles/2026-11/ec56b5eff9affb1c339e466c.md)
 
 <!-- articles:end -->
 

@@ -1303,5 +1303,20 @@
     "practice": "Benchmark this technique on the same prompts; compare first-token and total response time.",
     "path": "articles/2026-11/df3be113c8aed13fbadf7f5f.md",
     "automated": true
+  },
+  {
+    "id": "de4847a7cbcabb96041b9338",
+    "title": "Migrating our Messages API to Rust",
+    "url": "https://anthropic.com/research/migrating-api-to-rust",
+    "source": "Anthropic / Claude",
+    "published_at": "2026-11-25T00:00:00Z",
+    "added_at": "2026-11-26T04:31:09Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/de4847a7cbcabb96041b9338.md",
+    "automated": true
   }
 ]
