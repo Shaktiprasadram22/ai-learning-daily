@@ -1318,5 +1318,20 @@
     "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
     "path": "articles/2026-11/de4847a7cbcabb96041b9338.md",
     "automated": true
+  },
+  {
+    "id": "a2b31280b1a18e2b79937a05",
+    "title": "AI Test Case Generation for Production QA Pipelines",
+    "url": "https://blog.n8n.io/ai-test-case-generation",
+    "source": "n8n",
+    "published_at": "2026-11-26T14:40:39Z",
+    "added_at": "2026-11-27T04:31:08Z",
+    "topics": [
+      "latency"
+    ],
+    "excerpt": "Learn how AI test case generation improves test coverage and speeds testing across systems. Discover how orchestration enhances QA processes.",
+    "practice": "Benchmark this technique on the same prompts; compare first-token and total response time.",
+    "path": "articles/2026-11/a2b31280b1a18e2b79937a05.md",
+    "automated": true
   }
 ]

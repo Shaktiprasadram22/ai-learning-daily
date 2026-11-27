@@ -6,8 +6,9 @@ Each entry links to the original publisher, keeps its publication date, includes
 
 <!-- articles:start -->
 
-**87 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
+**88 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
 
+- **2026-11-26 · n8n** — [AI Test Case Generation for Production QA Pipelines](articles/2026-11/a2b31280b1a18e2b79937a05.md)
 - **2026-11-25 · NVIDIA** — [How to Optimize NVFP4 Attention on NVIDIA RTX Blackwell Through Register Recycling](articles/2026-11/f09aeb2897d181487b1d95ea.md)
 - **2026-11-25 · Hugging Face** — [Where scientists draw the line on AI agents](articles/2026-11/88bd06d7e0e9b82f43a3c7b4.md)
 - **2026-11-25 · Google Research** — [Verifiable Social Reasoning for LLM Assistants](articles/2026-11/5b91da256f36ad75ae2cc88f.md)
@@ -37,7 +38,6 @@ Each entry links to the original publisher, keeps its publication date, includes
 - **2026-11-18 · Hugging Face** — [Why your fine-tuning job takes longer than the FLOPs say](articles/2026-11/e55c8f2df06c07ffc92b5ea2.md)
 - **2026-11-18 · NVIDIA** — [Build Training-Ready Physical AI Datasets with Two Prompts in NVIDIA Cosmos](articles/2026-11/e0a5680da648bf1e9f0c1f68.md)
 - **2026-11-18 · OpenAI** — [Research acceleration: The jagged frontier](articles/2026-11/58da586369f33999eb920dc2.md)
-- **2026-11-18 · OpenAI** — [Managing frontier AI risk: From training to deployment](articles/2026-11/99be0c0a7e074380d1a5d6cd.md)
 
 <!-- articles:end -->
 
