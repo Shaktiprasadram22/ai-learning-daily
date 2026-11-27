@@ -1349,5 +1349,20 @@
     "practice": "Benchmark this technique on the same prompts; compare first-token and total response time.",
     "path": "articles/2026-11/3d2697b636d74b834fc0e734.md",
     "automated": true
+  },
+  {
+    "id": "819f2bb8e324e5e7f3ab174f",
+    "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+    "url": "https://huggingface.co/blog/training-swarms",
+    "source": "Hugging Face",
+    "published_at": "2026-11-26T00:00:00Z",
+    "added_at": "2026-11-27T04:31:08Z",
+    "topics": [
+      "build"
+    ],
+    "excerpt": "",
+    "practice": "Try one idea from this guide in a small prototype and evaluate it on representative tasks.",
+    "path": "articles/2026-11/819f2bb8e324e5e7f3ab174f.md",
+    "automated": true
   }
 ]

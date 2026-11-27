@@ -6,10 +6,11 @@ Each entry links to the original publisher, keeps its publication date, includes
 
 <!-- articles:start -->
 
-**89 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
+**90 reading entries** · Latest 30 below · [Full catalog](data/articles.json)
 
 - **2026-11-26 · n8n** — [AI Test Case Generation for Production QA Pipelines](articles/2026-11/a2b31280b1a18e2b79937a05.md)
 - **2026-11-26 · Hugging Face** — [Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference](articles/2026-11/3d2697b636d74b834fc0e734.md)
+- **2026-11-26 · Hugging Face** — [Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems](articles/2026-11/819f2bb8e324e5e7f3ab174f.md)
 - **2026-11-25 · NVIDIA** — [How to Optimize NVFP4 Attention on NVIDIA RTX Blackwell Through Register Recycling](articles/2026-11/f09aeb2897d181487b1d95ea.md)
 - **2026-11-25 · Hugging Face** — [Where scientists draw the line on AI agents](articles/2026-11/88bd06d7e0e9b82f43a3c7b4.md)
 - **2026-11-25 · Google Research** — [Verifiable Social Reasoning for LLM Assistants](articles/2026-11/5b91da256f36ad75ae2cc88f.md)
@@ -37,7 +38,6 @@ Each entry links to the original publisher, keeps its publication date, includes
 - **2026-11-19 · Google Developers** — [Multi-Turn Agentic Reinforcement Learning with Tunix and Gemma 4 on Google TPUs](articles/2026-11/e6f9d601449ae6856b74bcb7.md)
 - **2026-11-19 · Google Developers** — [Distributed LLM Training Across Metros: Streaming DiLoCo in MaxText](articles/2026-11/ddc3aaf2a01e995425ca8f4d.md)
 - **2026-11-18 · Hugging Face** — [Why your fine-tuning job takes longer than the FLOPs say](articles/2026-11/e55c8f2df06c07ffc92b5ea2.md)
-- **2026-11-18 · NVIDIA** — [Build Training-Ready Physical AI Datasets with Two Prompts in NVIDIA Cosmos](articles/2026-11/e0a5680da648bf1e9f0c1f68.md)
 
 <!-- articles:end -->
 
