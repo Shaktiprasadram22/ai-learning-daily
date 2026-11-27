@@ -1333,5 +1333,21 @@
     "practice": "Benchmark this technique on the same prompts; compare first-token and total response time.",
     "path": "articles/2026-11/a2b31280b1a18e2b79937a05.md",
     "automated": true
+  },
+  {
+    "id": "3d2697b636d74b834fc0e734",
+    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+    "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+    "source": "Hugging Face",
+    "published_at": "2026-11-26T05:05:36Z",
+    "added_at": "2026-11-27T04:31:08Z",
+    "topics": [
+      "build",
+      "latency"
+    ],
+    "excerpt": "",
+    "practice": "Benchmark this technique on the same prompts; compare first-token and total response time.",
+    "path": "articles/2026-11/3d2697b636d74b834fc0e734.md",
+    "automated": true
   }
 ]
